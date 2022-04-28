@@ -3,14 +3,10 @@
 This is the Final Project for SNLP-2022 ELEC-E5550, Aalto University. 
 
 
-Team Members:
-
-Hans Tiwari
-
-Preetha Datta
+Team Members: Hans Tiwari, Preetha Datta
 
 
-References:
+### References:
 
 https://github.com/kamalkraj/BERT-SQuAD
 
