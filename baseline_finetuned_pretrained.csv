@@ -1,0 +1,1668 @@
+,Question,Prediction,True Answer,Exact match,F1 score
+0,In what country is Normandy located?,france,France,True,1.0
+1,In what country is Normandy located?,france,France,True,1.0
+2,In what country is Normandy located?,france,France,True,1.0
+3,In what country is Normandy located?,france,France,True,1.0
+4,When were the Normans in Normandy?,10th and 11th centuries,10th and 11th centuries,True,1.0
+5,When were the Normans in Normandy?,10th and 11th centuries,in the 10th and 11th centuries,False,0.89
+6,When were the Normans in Normandy?,10th and 11th centuries,10th and 11th centuries,True,1.0
+7,When were the Normans in Normandy?,10th and 11th centuries,10th and 11th centuries,True,1.0
+8,From which countries did the Norse originate?,"denmark , iceland and norway","Denmark, Iceland and Norway",True,1.0
+9,From which countries did the Norse originate?,"denmark , iceland and norway","Denmark, Iceland and Norway",True,1.0
+10,From which countries did the Norse originate?,"denmark , iceland and norway","Denmark, Iceland and Norway",True,1.0
+11,From which countries did the Norse originate?,"denmark , iceland and norway","Denmark, Iceland and Norway",True,1.0
+12,Who was the Norse leader?,rollo,Rollo,True,1.0
+13,Who was the Norse leader?,rollo,Rollo,True,1.0
+14,Who was the Norse leader?,rollo,Rollo,True,1.0
+15,Who was the Norse leader?,rollo,Rollo,True,1.0
+16,What century did the Normans first gain their separate identity?,10th,10th century,False,0.67
+17,What century did the Normans first gain their separate identity?,10th,the first half of the 10th century,False,0.33
+18,What century did the Normans first gain their separate identity?,10th,10th,True,1.0
+19,What century did the Normans first gain their separate identity?,10th,10th,True,1.0
+20,Who was the duke in the battle of Hastings?,william the conqueror,William the Conqueror,True,1.0
+21,Who was the duke in the battle of Hastings?,william the conqueror,William the Conqueror,True,1.0
+22,Who was the duke in the battle of Hastings?,william the conqueror,William the Conqueror,True,1.0
+23,Who ruled the duchy of Normandy,richard i of normandy,Richard I,False,0.67
+24,Who ruled the duchy of Normandy,richard i of normandy,Richard I,False,0.67
+25,Who ruled the duchy of Normandy,richard i of normandy,Richard I,False,0.67
+26,What religion were the Normans,christian,Catholic,False,0.0
+27,What religion were the Normans,christian,Catholic orthodoxy,False,0.0
+28,What religion were the Normans,christian,Catholic,False,0.0
+29,What is the original meaning of the word Norman?,"norseman , viking",Viking,False,0.67
+30,What is the original meaning of the word Norman?,"norseman , viking","Norseman, Viking",True,1.0
+31,What is the original meaning of the word Norman?,"norseman , viking","Norseman, Viking",True,1.0
+32,When was the Latin version of the word Norman first recorded?,9th century,9th century,True,1.0
+33,When was the Latin version of the word Norman first recorded?,9th century,9th century,True,1.0
+34,When was the Latin version of the word Norman first recorded?,9th century,9th century,True,1.0
+35,When was the Duchy of Normandy founded?,911,911,True,1.0
+36,When was the Duchy of Normandy founded?,911,911,True,1.0
+37,When was the Duchy of Normandy founded?,911,911,True,1.0
+38,Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?,king charles iii of west francia,King Charles III,False,0.67
+39,Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?,king charles iii of west francia,King Charles III,False,0.67
+40,Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?,king charles iii of west francia,King Charles III,False,0.67
+41,What river originally bounded the Duchy,river seine,Seine,False,0.67
+42,What river originally bounded the Duchy,river seine,Epte,False,0.0
+43,What river originally bounded the Duchy,river seine,Seine,False,0.67
+44,Who upon arriving gave the original viking settlers a common identity?,rollo,Rollo,True,1.0
+45,Who upon arriving gave the original viking settlers a common identity?,rollo,Rollo,True,1.0
+46,Who upon arriving gave the original viking settlers a common identity?,rollo,Rollo,True,1.0
+47,What was the Norman religion?,norse religion and old norse language with catholicism ( christianity,Catholicism,False,0.2
+48,What was the Norman religion?,norse religion and old norse language with catholicism ( christianity,Catholicism,False,0.2
+49,What was the Norman religion?,norse religion and old norse language with catholicism ( christianity,Catholicism,False,0.2
+50,What part of France were the Normans located?,north,north,True,1.0
+51,What part of France were the Normans located?,north,the north,True,1.0
+52,What part of France were the Normans located?,north,north,True,1.0
+53,What was one of the Norman's major exports?,fighting horsemen,fighting horsemen,True,1.0
+54,What was one of the Norman's major exports?,fighting horsemen,fighting horsemen,True,1.0
+55,What was one of the Norman's major exports?,fighting horsemen,fighting horsemen,True,1.0
+56,"Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?","the pechenegs , the bulgars , and especially the seljuk turks",Seljuk Turks,False,0.5
+57,"Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?","the pechenegs , the bulgars , and especially the seljuk turks","the Pechenegs, the Bulgars, and especially the Seljuk Turks",True,1.0
+58,"Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?","the pechenegs , the bulgars , and especially the seljuk turks",the Seljuk Turks,False,0.5
+59,When did Herve serve as a Byzantine general?,1050s,1050s,True,1.0
+60,When did Herve serve as a Byzantine general?,1050s,in the 1050s,False,0.67
+61,When did Herve serve as a Byzantine general?,1050s,in the 1050s,False,0.67
+62,When did Robert Crispin go up against the Turks?,1060s,1060s,True,1.0
+63,When did Robert Crispin go up against the Turks?,1060s,In the 1060s,False,0.67
+64,When did Robert Crispin go up against the Turks?,1060s,In the 1060s,False,0.67
+65,Who ruined Roussel de Bailleul's plans for an independent state?,alexius komnenos,Alexius Komnenos,True,1.0
+66,Who ruined Roussel de Bailleul's plans for an independent state?,alexius komnenos,Alexius Komnenos,True,1.0
+67,Who ruined Roussel de Bailleul's plans for an independent state?,alexius komnenos,Alexius Komnenos,True,1.0
+68,What was the name of the Norman castle?,afranji,Afranji,True,1.0
+69,What was the name of the Norman castle?,afranji,Afranji,True,1.0
+70,What was the name of the Norman castle?,afranji,Afranji,True,1.0
+71,Who was the leader when the Franks entered the Euphrates valley?,oursel,Oursel,True,1.0
+72,Who was the leader when the Franks entered the Euphrates valley?,oursel,Oursel,True,1.0
+73,Who was the leader when the Franks entered the Euphrates valley?,oursel,Oursel,True,1.0
+74,Who did the Normans team up with in Anatolia?,turkish forces,Turkish forces,True,1.0
+75,Who did the Normans team up with in Anatolia?,turkish forces,Turkish forces,True,1.0
+76,Who did the Normans team up with in Anatolia?,turkish forces,Turkish forces,True,1.0
+77,What were the origins of the Raouliii family?,italo - norman named raoul,Norman mercenary,False,0.33
+78,What were the origins of the Raouliii family?,italo - norman named raoul,an Italo-Norman named Raoul,False,0.57
+79,What were the origins of the Raouliii family?,italo - norman named raoul,descended from an Italo-Norman named Raoul,False,0.44
+80,What was the name of the count of Apulia ,robert guiscard,Robert Guiscard,True,1.0
+81,What was the name of the count of Apulia ,robert guiscard,Robert Guiscard,True,1.0
+82,What was the name of the count of Apulia ,robert guiscard,Robert Guiscard,True,1.0
+83,When did Dyrrachium  fall to the Normans?,1085,1082,False,0.0
+84,When did Dyrrachium  fall to the Normans?,1085,February 1082,False,0.0
+85,When did Dyrrachium  fall to the Normans?,1085,February 1082,False,0.0
+86,How many men were in Robert's army?,"30 , 000","30,000",False,0.0
+87,How many men were in Robert's army?,"30 , 000","30,000",False,0.0
+88,How many men were in Robert's army?,"30 , 000","30,000",False,0.0
+89,Where did the Normans and Byzantines sign the peace treaty?,deabolis,Deabolis,True,1.0
+90,Where did the Normans and Byzantines sign the peace treaty?,deabolis,Deabolis,True,1.0
+91,Where did the Normans and Byzantines sign the peace treaty?,deabolis,Deabolis,True,1.0
+92,Who was Robert's son?,bohemond,Bohemond,True,1.0
+93,Who was Robert's son?,bohemond,Bohemond,True,1.0
+94,Who was Robert's son?,bohemond,Bohemond,True,1.0
+95,What river was Petrela located by?,river deabolis,Deabolis,False,0.67
+96,What river was Petrela located by?,river deabolis,the river Deabolis,True,1.0
+97,What river was Petrela located by?,river deabolis,Deabolis,False,0.67
+98,When did the Normans attack Dyrrachium?,1185,1185,True,1.0
+99,When did the Normans attack Dyrrachium?,1185,in 1185,False,0.67
+100,When did the Normans attack Dyrrachium?,1185,1185,True,1.0
+101,What was the naval base called?,dyrrachium,Dyrrachium,True,1.0
+102,What was the naval base called?,dyrrachium,Dyrrachium,True,1.0
+103,What was the naval base called?,dyrrachium,Dyrrachium,True,1.0
+104,Where was Dyrrachium located?,the adriatic,the Adriatic,True,1.0
+105,Where was Dyrrachium located?,the adriatic,the Adriatic,True,1.0
+106,Where was Dyrrachium located?,the adriatic,Adriatic,True,1.0
+107,Who did Emma Marry?,king ethelred ii of england,King Ethelred II,False,0.75
+108,Who did Emma Marry?,king ethelred ii of england,Ethelred II,False,0.57
+109,Who did Emma Marry?,king ethelred ii of england,King Ethelred II,False,0.75
+110,Who was Emma's brother?,duke richard ii of normandy,Duke Richard II,False,0.75
+111,Who was Emma's brother?,duke richard ii of normandy,Duke Richard II,False,0.75
+112,Who was Emma's brother?,duke richard ii of normandy,Duke Richard II,False,0.75
+113,To where did Ethelred flee?,normandy,Normandy,True,1.0
+114,To where did Ethelred flee?,normandy,Normandy,True,1.0
+115,To where did Ethelred flee?,normandy,Normandy,True,1.0
+116,Who kicked Ethelred out?,sweyn forkbeard,Sweyn Forkbeard,True,1.0
+117,Who kicked Ethelred out?,sweyn forkbeard,Sweyn Forkbeard,True,1.0
+118,Who kicked Ethelred out?,sweyn forkbeard,Sweyn Forkbeard,True,1.0
+119,Who was Edward the Confessor's half-brother?,harthacnut,Harthacnut,True,1.0
+120,Who was Edward the Confessor's half-brother?,harthacnut,Harthacnut,True,1.0
+121,Who was Edward the Confessor's half-brother?,harthacnut,Harthacnut,True,1.0
+122,When did Edward return?,1041,1041,True,1.0
+123,When did Edward return?,1041,in 1041,False,0.67
+124,When did Edward return?,1041,1041,True,1.0
+125,Who did Edward make archbishop of Canterbury?,robert of jumieges,Robert of Jumièges,False,0.67
+126,Who did Edward make archbishop of Canterbury?,robert of jumieges,Robert of Jumièges,False,0.67
+127,Who did Edward make archbishop of Canterbury?,robert of jumieges,Robert of Jumièges,False,0.67
+128,Where did Harold II die?,battle of hastings,Battle of Hastings,True,1.0
+129,Where did Harold II die?,battle of hastings,the Battle of Hastings,True,1.0
+130,Where did Harold II die?,battle of hastings,at the Battle of Hastings,False,0.86
+131,Who killed Harold II? ,duke william ii of normandy,William II,False,0.57
+132,Who killed Harold II? ,duke william ii of normandy,Duke William II,False,0.75
+133,Who killed Harold II? ,duke william ii of normandy,Duke William II,False,0.75
+134,When was the Battle of Hastings?,1066,1066,True,1.0
+135,When was the Battle of Hastings?,1066,In 1066,False,0.67
+136,When was the Battle of Hastings?,1066,1066,True,1.0
+137,Who was the ruling class ahead of the Normans?,anglo - saxons,Anglo-Saxons,False,0.0
+138,Who was the ruling class ahead of the Normans?,anglo - saxons,the Anglo-Saxons,False,0.0
+139,Who was the ruling class ahead of the Normans?,anglo - saxons,Anglo-Saxons,False,0.0
+140,What was the Anglo-Norman language's final form?,old english,Modern English,False,0.5
+141,What was the Anglo-Norman language's final form?,old english,Modern English,False,0.5
+142,What was the Anglo-Norman language's final form?,old english,Modern English,False,0.5
+143,In what year did the Norman's invade at Bannow Bay?,1169,1169,True,1.0
+144,In what year did the Norman's invade at Bannow Bay?,1169,1169,True,1.0
+145,In what year did the Norman's invade at Bannow Bay?,1169,1169,True,1.0
+146,What country did the Normans invade in 1169?,irish,Ireland,False,0.0
+147,What country did the Normans invade in 1169?,irish,Ireland,False,0.0
+148,What country did the Normans invade in 1169?,irish,Ireland,False,0.0
+149,What culture did the Normans combine with in Ireland?,irish culture,Irish,False,0.67
+150,What culture did the Normans combine with in Ireland?,irish culture,Irish,False,0.67
+151,What culture did the Normans combine with in Ireland?,irish culture,Irish,False,0.67
+152,Who was Margaret's brother?,king malcolm iii,Edgar,False,0.0
+153,Who was Margaret's brother?,king malcolm iii,Edgar,False,0.0
+154,Who was Margaret's brother?,king malcolm iii,Edgar Atheling,False,0.0
+155,Who was Margaret's husband?,king malcolm iii,King Malcolm III of Scotland,False,0.75
+156,Who was Margaret's husband?,king malcolm iii,King Malcolm III,True,1.0
+157,Who was Margaret's husband?,king malcolm iii,King Malcolm III,True,1.0
+158,When was Scotland invaded by William?,1072,1072,True,1.0
+159,When was Scotland invaded by William?,1072,1072,True,1.0
+160,When was Scotland invaded by William?,1072,1072,True,1.0
+161,Who was the hostage?,his son duncan,Duncan,False,0.5
+162,Who was the hostage?,his son duncan,Duncan,False,0.5
+163,Who was the hostage?,his son duncan,Duncan,False,0.5
+164,Who did Alexander I marry?,sybilla of normandy,Sybilla of Normandy,True,1.0
+165,Who did Alexander I marry?,sybilla of normandy,Sybilla of Normandy,True,1.0
+166,Who did Alexander I marry?,sybilla of normandy,Sybilla,False,0.5
+167,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",normans,Norman,False,0.0
+168,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",normans,Norman,False,0.0
+169,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",normans,Norman,False,0.0
+170,Where was Ralph earl of?,hereford,Hereford,True,1.0
+171,Where was Ralph earl of?,hereford,Hereford,True,1.0
+172,Where was Ralph earl of?,hereford,Hereford,True,1.0
+173,Who was Ralph in charge of being at war with?,the welsh,the Welsh,True,1.0
+174,Who was Ralph in charge of being at war with?,the welsh,the Welsh,True,1.0
+175,Who was Ralph in charge of being at war with?,the welsh,the Welsh,True,1.0
+176,Who made Ralph earl?,edward the confessor,Edward the Confessor,True,1.0
+177,Who made Ralph earl?,edward the confessor,Edward the Confessor,True,1.0
+178,Who made Ralph earl?,edward the confessor,Edward the Confessor,True,1.0
+179,What country was under the control of Norman barons?,the marches,Wales,False,0.0
+180,What country was under the control of Norman barons?,the marches,Wales,False,0.0
+181,What country was under the control of Norman barons?,the marches,Wales,False,0.0
+182,What year did Roger de Tosny fail to accomplish what he set out to do?,1018,1018,True,1.0
+183,What year did Roger de Tosny fail to accomplish what he set out to do?,1018,1064,False,0.0
+184,What year did Roger de Tosny fail to accomplish what he set out to do?,1018,1018,True,1.0
+185,Who was in charge of the papal army in the War of Barbastro?,william of montreuil,William of Montreuil,True,1.0
+186,Who was in charge of the papal army in the War of Barbastro?,william of montreuil,William of Montreuil,True,1.0
+187,Who was in charge of the papal army in the War of Barbastro?,william of montreuil,William of Montreuil,True,1.0
+188,When did the Siege of Antioch take place?,1097,1097,True,1.0
+189,When did the Siege of Antioch take place?,1097,1097,True,1.0
+190,When did the Siege of Antioch take place?,1097,1097,True,1.0
+191,What was the name of Bohemond's nephew?,tancred,Tancred,True,1.0
+192,What was the name of Bohemond's nephew?,tancred,Tancred,True,1.0
+193,What was the name of Bohemond's nephew?,tancred,Tancred,True,1.0
+194,What major conquest did Tancred play a roll in?,conquest of jerusalem,Jerusalem,False,0.5
+195,What major conquest did Tancred play a roll in?,conquest of jerusalem,Jerusalem,False,0.5
+196,What major conquest did Tancred play a roll in?,conquest of jerusalem,Jerusalem,False,0.5
+197,How long did Western Europe control Cyprus?,380 years,380 years,True,1.0
+198,How long did Western Europe control Cyprus?,380 years,380 years,True,1.0
+199,How long did Western Europe control Cyprus?,380 years,380 years,True,1.0
+200,What ruined Richard's plans to reach Acre?,a storm,a storm,True,1.0
+201,What ruined Richard's plans to reach Acre?,a storm,a storm,True,1.0
+202,What ruined Richard's plans to reach Acre?,a storm,a storm,True,1.0
+203,Who was Richard's fiancee?,berengaria,Berengaria,True,1.0
+204,Who was Richard's fiancee?,berengaria,Berengaria,True,1.0
+205,Who was Richard's fiancee?,berengaria,Berengaria,True,1.0
+206,What year did the storm hit Richard's fleet?,1191,1191,True,1.0
+207,What year did the storm hit Richard's fleet?,1191,1191,True,1.0
+208,What year did the storm hit Richard's fleet?,1191,1191,True,1.0
+209,Who ruled Cyprus in 1191?,isaac komnenos,Isaac Komnenos,True,1.0
+210,Who ruled Cyprus in 1191?,isaac komnenos,Isaac,False,0.67
+211,Who ruled Cyprus in 1191?,isaac komnenos,Isaac Komnenos,True,1.0
+212,Who was Guy's Rival?,conrad of montferrat,Conrad of Montferrat,True,1.0
+213,Who was Guy's Rival?,conrad of montferrat,Conrad of Montferrat,True,1.0
+214,Who was Guy's Rival?,conrad of montferrat,Conrad of Montferrat,True,1.0
+215,What were Isaac's chains made out of?,silver,silver,True,1.0
+216,What were Isaac's chains made out of?,silver,silver,True,1.0
+217,What were Isaac's chains made out of?,silver,silver,True,1.0
+218,Who led Richard's troops when Cyprus was conquered?,guy de lusignan,Guy de Lusignan,True,1.0
+219,Who led Richard's troops when Cyprus was conquered?,guy de lusignan,Guy de Lusignan,True,1.0
+220,Who led Richard's troops when Cyprus was conquered?,guy de lusignan,Guy de Lusignan,True,1.0
+221,What continent are the Canarian Islands off the coast of?,africa,Africa,True,1.0
+222,What continent are the Canarian Islands off the coast of?,africa,Africa,True,1.0
+223,What continent are the Canarian Islands off the coast of?,africa,Africa,True,1.0
+224,Who became the King of the Canary Islands?,bethencourt,Bethencourt,True,1.0
+225,Who became the King of the Canary Islands?,bethencourt,Bethencourt,True,1.0
+226,Who became the King of the Canary Islands?,bethencourt,Bethencourt,True,1.0
+227,Who bought the rights?,"enrique perez de guzman , 2nd count de niebla",Enrique Pérez de Guzmán,False,0.33
+228,Who bought the rights?,"enrique perez de guzman , 2nd count de niebla",Enrique Pérez de Guzmán,False,0.33
+229,Who bought the rights?,"enrique perez de guzman , 2nd count de niebla",Enrique Pérez de Guzmán,False,0.33
+230,Who sold the rights?,maciot de bethencourt,Maciot de Bethencourt,True,1.0
+231,Who sold the rights?,maciot de bethencourt,Maciot de Bethencourt,True,1.0
+232,Who sold the rights?,maciot de bethencourt,Maciot de Bethencourt,True,1.0
+233,Where are Jersey and Guernsey,channel islands,Channel Islands,True,1.0
+234,Where are Jersey and Guernsey,channel islands,the Channel Islands,True,1.0
+235,Where are Jersey and Guernsey,channel islands,the Channel Islands,True,1.0
+236,How many customaries does Norman customary law have?,two,two,True,1.0
+237,How many customaries does Norman customary law have?,two,two,True,1.0
+238,How many customaries does Norman customary law have?,two,two,True,1.0
+239,What is the Norman architecture idiom?,romanesque,Romanesque,True,1.0
+240,What is the Norman architecture idiom?,romanesque,Romanesque,True,1.0
+241,What is the Norman architecture idiom?,romanesque,Romanesque,True,1.0
+242,What kind of arches does Norman architecture have?,rounded arches,rounded,False,0.67
+243,What kind of arches does Norman architecture have?,rounded arches,rounded,False,0.67
+244,What kind of arches does Norman architecture have?,rounded arches,rounded,False,0.67
+245,What architecture type came after Norman in England?,early gothic,Early Gothic,True,1.0
+246,What architecture type came after Norman in England?,early gothic,Early Gothic,True,1.0
+247,What architecture type came after Norman in England?,early gothic,Early Gothic,True,1.0
+248,What architecture type came before Norman in England?,anglo - saxon,Anglo-Saxon,False,0.0
+249,What architecture type came before Norman in England?,anglo - saxon,Anglo-Saxon,False,0.0
+250,What architecture type came before Norman in England?,anglo - saxon,Anglo-Saxon,False,0.0
+251,What place had the Norman Arab architectural style?,kingdom of sicily,Sicily,False,0.5
+252,What place had the Norman Arab architectural style?,kingdom of sicily,Sicily,False,0.5
+253,What place had the Norman Arab architectural style?,kingdom of sicily,Kingdom of Sicily,True,1.0
+254,When did the church reform begin?,early 11th century,early 11th century,True,1.0
+255,When did the church reform begin?,early 11th century,11th century,False,0.8
+256,When did the church reform begin?,early 11th century,in the early 11th century,False,0.86
+257,Who used the church to unify themselves?,the dukes,dukes,True,1.0
+258,Who used the church to unify themselves?,the dukes,the dukes,True,1.0
+259,Who used the church to unify themselves?,the dukes,dukes,True,1.0
+260,When were the French wars of religion?,16th century,16th century,True,1.0
+261,When were the French wars of religion?,16th century,the 16th century,True,1.0
+262,When were the French wars of religion?,16th century,in the 16th century,False,0.8
+263,What kind of needlework was used in the creation of the Bayeux Tapestry?,embroidery,embroidery,True,1.0
+264,What kind of needlework was used in the creation of the Bayeux Tapestry?,embroidery,embroidery,True,1.0
+265,What kind of needlework was used in the creation of the Bayeux Tapestry?,embroidery,embroidery,True,1.0
+266,What is Norman art's most well known piece?,bayeux tapestry,Bayeux Tapestry,True,1.0
+267,What is Norman art's most well known piece?,bayeux tapestry,the Bayeux Tapestry,True,1.0
+268,What is Norman art's most well known piece?,bayeux tapestry,the Bayeux Tapestry,True,1.0
+269,Who commissioned the Tapestry?,odo,Odo,True,1.0
+270,Who commissioned the Tapestry?,odo,Odo,True,1.0
+271,Who commissioned the Tapestry?,odo,Odo,True,1.0
+272,What is the most important type of Norman art preserved in churches?,mosaics,mosaics,True,1.0
+273,What is the most important type of Norman art preserved in churches?,mosaics,mosaics,True,1.0
+274,What is the most important type of Norman art preserved in churches?,mosaics,mosaics,True,1.0
+275,In what century did important classical music developments occur in Normandy?,11th,11th,True,1.0
+276,In what century did important classical music developments occur in Normandy?,11th,the 11th,True,1.0
+277,In what century did important classical music developments occur in Normandy?,11th,11th,True,1.0
+278,Who were the two abbots at Fécamp Abbey?,william of volpiano and john of ravenna,William of Volpiano and John of Ravenna,True,0.86
+279,Who were the two abbots at Fécamp Abbey?,william of volpiano and john of ravenna,William of Volpiano and John of Ravenna,True,0.86
+280,Who were the two abbots at Fécamp Abbey?,william of volpiano and john of ravenna,William of Volpiano and John of Ravenna,True,0.86
+281,Where did the monks flee to?,southern italy,southern Italy,True,1.0
+282,Where did the monks flee to?,southern italy,southern Italy,True,1.0
+283,Where did the monks flee to?,southern italy,southern Italy,True,1.0
+284,What monastery did the Saint-Evroul monks establish in Italy?,sant ' eufemia,Latin monastery at Sant'Eufemia.,False,0.0
+285,What monastery did the Saint-Evroul monks establish in Italy?,sant ' eufemia,a Latin monastery at Sant'Eufemia,False,0.0
+286,What monastery did the Saint-Evroul monks establish in Italy?,sant ' eufemia,Sant'Eufemia,False,0.0
+287,Who patronized the monks in Italy? ,robert guiscard,Robert Guiscard,True,1.0
+288,Who patronized the monks in Italy? ,robert guiscard,Robert Guiscard,True,1.0
+289,Who patronized the monks in Italy? ,robert guiscard,Robert Guiscard,True,1.0
+290,What tradition were the Saint-Evroul monks known for?,singing,singing,True,1.0
+291,What tradition were the Saint-Evroul monks known for?,singing,singing,True,1.0
+292,What tradition were the Saint-Evroul monks known for?,singing,singing,True,1.0
+293,What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?,computational complexity theory,Computational complexity theory,True,1.0
+294,What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?,computational complexity theory,Computational complexity theory,True,1.0
+295,What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?,computational complexity theory,Computational complexity theory,True,1.0
+296,By what main attribute are computational problems classified utilizing computational complexity theory? ,inherent difficulty,inherent difficulty,True,1.0
+297,By what main attribute are computational problems classified utilizing computational complexity theory? ,inherent difficulty,their inherent difficulty,False,0.8
+298,By what main attribute are computational problems classified utilizing computational complexity theory? ,inherent difficulty,inherent difficulty,True,1.0
+299,What is the term for a task that generally lends itself to being solved by a computer?,computational problem,computational problems,False,0.5
+300,What is the term for a task that generally lends itself to being solved by a computer?,computational problem,A computational problem,True,1.0
+301,What is the term for a task that generally lends itself to being solved by a computer?,computational problem,computational problem,True,1.0
+302,What measure of a computational problem broadly defines the inherent difficulty of the solution?,significant resources,if its solution requires significant resources,False,0.5
+303,What measure of a computational problem broadly defines the inherent difficulty of the solution?,significant resources,its solution requires significant resources,False,0.57
+304,What measure of a computational problem broadly defines the inherent difficulty of the solution?,significant resources,if its solution requires significant resources,False,0.5
+305,What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?,mathematical models of computation,mathematical models of computation,True,1.0
+306,What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?,mathematical models of computation,mathematical models of computation,True,1.0
+307,What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?,mathematical models of computation,mathematical models of computation,True,1.0
+308,What are two basic primary resources used to guage complexity?,time and storage,time and storage,True,1.0
+309,What are two basic primary resources used to guage complexity?,time and storage,time and storage,True,1.0
+310,What are two basic primary resources used to guage complexity?,time and storage,time and storage,True,1.0
+311,What unit is measured to determine circuit complexity?,the number of gates,number of gates in a circuit,False,0.75
+312,What unit is measured to determine circuit complexity?,the number of gates,number of gates in a circuit,False,0.75
+313,What unit is measured to determine circuit complexity?,the number of gates,number of gates,True,1.0
+314,What practical role does defining the complexity of problems play in everyday computing?,limits on what computers can and cannot do,determine the practical limits on what computers can and cannot do,False,0.89
+315,What practical role does defining the complexity of problems play in everyday computing?,limits on what computers can and cannot do,what computers can and cannot do,False,0.86
+316,What practical role does defining the complexity of problems play in everyday computing?,limits on what computers can and cannot do,determine the practical limits on what computers can and cannot do,False,0.89
+317,What two fields of theoretical computer science closely mirror computational complexity theory?,analysis of algorithms and computability theory,analysis of algorithms and computability theory,True,1.0
+318,What two fields of theoretical computer science closely mirror computational complexity theory?,analysis of algorithms and computability theory,analysis of algorithms and computability theory,True,1.0
+319,What two fields of theoretical computer science closely mirror computational complexity theory?,analysis of algorithms and computability theory,analysis of algorithms and computability theory,True,1.0
+320,What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?,computational complexity theory,analysis of algorithms,False,0.0
+321,What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?,computational complexity theory,analysis of algorithms,False,0.0
+322,What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?,computational complexity theory,analysis of algorithms,False,0.0
+323,What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?  ,computational complexity theory,computational complexity theory,True,1.0
+324,What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?  ,computational complexity theory,computational complexity theory,True,1.0
+325,What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?  ,computational complexity theory,computational complexity theory,True,1.0
+326,What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?,theoretical computer science are analysis of algorithms and computability theory . a key distinction between analysis of algorithms and computational complexity theory,computability theory,False,0.18
+327,What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?,theoretical computer science are analysis of algorithms and computability theory . a key distinction between analysis of algorithms and computational complexity theory,computability theory,False,0.18
+328,What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?,theoretical computer science are analysis of algorithms and computability theory . a key distinction between analysis of algorithms and computational complexity theory,computability theory,False,0.18
+329,What is the name given to the input string of a computational problem?,a problem instance,problem instance,True,1.0
+330,What is the name given to the input string of a computational problem?,a problem instance,a problem instance,True,1.0
+331,What is the name given to the input string of a computational problem?,a problem instance,problem instance,True,1.0
+332,"In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved? ",a problem,the problem,True,1.0
+333,"In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved? ",a problem,a problem,True,1.0
+334,"In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved? ",a problem,problem,True,1.0
+335,Is a problem instance typically characterized as abstract or concrete?,concrete,concrete,True,1.0
+336,Is a problem instance typically characterized as abstract or concrete?,concrete,concrete,True,1.0
+337,Is a problem instance typically characterized as abstract or concrete?,concrete,abstract,False,0.0
+338,What is another name for any given measure of input associated with a problem?,the instance,instances,False,0.0
+339,What is another name for any given measure of input associated with a problem?,the instance,the instance,True,1.0
+340,What is another name for any given measure of input associated with a problem?,the instance,instance,True,1.0
+341,What is the general term used to describe the output to any given input in a problem instance?,solution,solution,True,1.0
+342,What is the general term used to describe the output to any given input in a problem instance?,solution,the solution,True,1.0
+343,What is the general term used to describe the output to any given input in a problem instance?,solution,solution,True,1.0
+344,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,2000,2000,True,1.0
+345,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,2000,2000,True,1.0
+346,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,2000,2000,True,1.0
+347,What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?,asking for a round trip through all sites in milan,round trip through all sites in Milan,False,0.88
+348,What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?,asking for a round trip through all sites in milan,asking for a round trip through all sites in Milan whose total length is at most 10 km,False,0.69
+349,What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?,asking for a round trip through all sites in milan,a round trip through all sites in Milan whose total length is at most 10 km,False,0.58
+350,What does computational complexity theory most specifically seek to answer? ,computational problems,computational problems,True,1.0
+351,What does computational complexity theory most specifically seek to answer? ,computational problems,computational problems,True,1.0
+352,What does computational complexity theory most specifically seek to answer? ,computational problems,computational problems,True,1.0
+353,"In a computational problem, what can be described as a string over an alphabet?",problem instance,problem instance,True,1.0
+354,"In a computational problem, what can be described as a string over an alphabet?",problem instance,a problem instance,True,1.0
+355,"In a computational problem, what can be described as a string over an alphabet?",problem instance,problem instance,True,1.0
+356,What is the name of the alphabet is most commonly used in a problem instance?,binary alphabet,binary alphabet,True,1.0
+357,What is the name of the alphabet is most commonly used in a problem instance?,binary alphabet,binary,False,0.67
+358,What is the name of the alphabet is most commonly used in a problem instance?,binary alphabet,binary,False,0.67
+359,What is another term for the string of a problem instance?,bitstrings,bitstrings,True,1.0
+360,What is another term for the string of a problem instance?,bitstrings,bitstrings,True,1.0
+361,What is another term for the string of a problem instance?,bitstrings,bitstrings,True,1.0
+362,"In the encoding of mathematical objects, what is the way in which integers are commonly expressed?",binary notation,binary notation,True,1.0
+363,"In the encoding of mathematical objects, what is the way in which integers are commonly expressed?",binary notation,binary notation,True,1.0
+364,"In the encoding of mathematical objects, what is the way in which integers are commonly expressed?",binary notation,binary notation,True,1.0
+365,What is one way in which graphs can be encoded? ,directly via their adjacency matrices,adjacency matrices,False,0.57
+366,What is one way in which graphs can be encoded? ,directly via their adjacency matrices,directly via their adjacency matrices,True,1.0
+367,What kind of problems are one of the main topics studied in computational complexity theory?,decision problems,Decision problems,True,1.0
+368,What kind of problems are one of the main topics studied in computational complexity theory?,decision problems,Decision problems,True,1.0
+369,What kind of problems are one of the main topics studied in computational complexity theory?,decision problems,Decision,False,0.67
+370,What are the two simple word responses to a decision problem?,yes or no,yes or no,True,1.0
+371,What are the two simple word responses to a decision problem?,yes or no,yes or no,True,1.0
+372,What are the two simple word responses to a decision problem?,yes or no,yes or no,True,1.0
+373,What are the two integer responses to a decision problem?,1 or 0,1 or 0,True,1.0
+374,What are the two integer responses to a decision problem?,1 or 0,1 or 0,True,1.0
+375,What are the two integer responses to a decision problem?,1 or 0,1 or 0,True,1.0
+376,What will the output be for a member of the language of a decision problem?,yes,yes,True,1.0
+377,What will the output be for a member of the language of a decision problem?,yes,yes,True,1.0
+378,What will the output be for a member of the language of a decision problem?,yes,yes,True,1.0
+379,What answer denotes that an algorithm has accepted an input string?,yes,yes,True,1.0
+380,What answer denotes that an algorithm has accepted an input string?,yes,yes,True,1.0
+381,What answer denotes that an algorithm has accepted an input string?,yes,yes,True,1.0
+382,What kind of graph is an example of an input used in a decision problem?,arbitrary,arbitrary graph,False,0.67
+383,What kind of graph is an example of an input used in a decision problem?,arbitrary,arbitrary,True,1.0
+384,What kind of graph is an example of an input used in a decision problem?,arbitrary,arbitrary,True,1.0
+385,What is the term for the set of all connected graphs related to this decision problem?,the formal language,formal language,True,1.0
+386,What is the term for the set of all connected graphs related to this decision problem?,the formal language,The formal language,True,1.0
+387,What is the term for the set of all connected graphs related to this decision problem?,the formal language,The formal language associated with this decision problem,False,0.44
+388,What encoding decision needs to be made in order to determine an exact definition of the formal language?,binary strings,how graphs are encoded as binary strings,False,0.44
+389,What encoding decision needs to be made in order to determine an exact definition of the formal language?,binary strings,how graphs are encoded as binary strings,False,0.44
+390,What encoding decision needs to be made in order to determine an exact definition of the formal language?,binary strings,how graphs are encoded as binary strings,False,0.44
+391,A function problem is an example of what?,computational problem,a computational problem,True,1.0
+392,A function problem is an example of what?,computational problem,a computational problem,True,1.0
+393,A function problem is an example of what?,computational problem,a computational problem,True,1.0
+394,How many outputs are expected for each input in a function problem?,single,a single output,False,0.67
+395,How many outputs are expected for each input in a function problem?,single,single,True,1.0
+396,How many outputs are expected for each input in a function problem?,single,single,True,1.0
+397,The traveling salesman problem is an example of what type of problem?,function problem,A function problem,True,1.0
+398,The traveling salesman problem is an example of what type of problem?,function problem,function,False,0.67
+399,The traveling salesman problem is an example of what type of problem?,function problem,function problem,True,1.0
+400,"In addition to the traveling salesman problem, what is another example of a function problem?",the integer factorization problem,the integer factorization problem,True,1.0
+401,"In addition to the traveling salesman problem, what is another example of a function problem?",the integer factorization problem,integer factorization,False,0.8
+402,"In addition to the traveling salesman problem, what is another example of a function problem?",the integer factorization problem,integer factorization problem,True,1.0
+403,Is the output of a functional problem typically characterized by a simple or complex answer?,complex,complex,True,1.0
+404,Is the output of a functional problem typically characterized by a simple or complex answer?,complex,complex,True,1.0
+405,Is the output of a functional problem typically characterized by a simple or complex answer?,complex,complex,True,1.0
+406,How can function problems typically be restated?,as decision problems,decision problems,False,0.8
+407,How can function problems typically be restated?,as decision problems,as decision problems,True,1.0
+408,How can function problems typically be restated?,as decision problems,as decision problems,True,1.0
+409,"If two integers are multiplied and output a value, what is this expression set called?","triples ( a , b , c )",set of triples,False,0.33
+410,"If two integers are multiplied and output a value, what is this expression set called?","triples ( a , b , c )",triple,False,0.0
+411,"If two integers are multiplied and output a value, what is this expression set called?","triples ( a , b , c )","the set of triples (a, b, c) such that the relation a × b = c holds",False,0.4
+412,What is a commonly used measurement used to determine the complexity of a computational problem?,the size of the input in bits,how much time the best algorithm requires to solve the problem,False,0.0
+413,What is a commonly used measurement used to determine the complexity of a computational problem?,the size of the input in bits,time,False,0.0
+414,What is a commonly used measurement used to determine the complexity of a computational problem?,the size of the input in bits,time,False,0.0
+415,What is one variable on which the running time may be contingent?,the instance,the instance,True,1.0
+416,What is one variable on which the running time may be contingent?,the instance,the instance,True,1.0
+417,What is one variable on which the running time may be contingent?,the instance,the size of the instance,False,0.5
+418,How is the time needed to obtain the solution to a problem calculated?,as a function of the size of the instance,as a function of the size of the instance,True,0.83
+419,How is the time needed to obtain the solution to a problem calculated?,as a function of the size of the instance,as a function of the size of the instance,True,0.83
+420,How is the time needed to obtain the solution to a problem calculated?,as a function of the size of the instance,a function of the size of the instance,False,0.73
+421,In what unit is the size of the input measured?,bits,bits,True,1.0
+422,In what unit is the size of the input measured?,bits,bits,True,1.0
+423,In what unit is the size of the input measured?,bits,bits,True,1.0
+424,Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?,input size,an increase in the input size,False,0.67
+425,Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?,input size,input size,True,1.0
+426,Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?,input size,input size,True,1.0
+427,Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?,cobham,Cobham's thesis,False,0.0
+428,Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?,cobham,Cobham's,False,0.0
+429,Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?,cobham,Cobham,True,1.0
+430,"If input size is is equal to n, what can respectively be assumed is the function of n?",time taken,the time taken,True,1.0
+431,"If input size is is equal to n, what can respectively be assumed is the function of n?",time taken,the time taken,True,1.0
+432,"If input size is is equal to n, what can respectively be assumed is the function of n?",time taken,the time taken,True,1.0
+433,What term corresponds to the maximum measurement of time across all functions of n? ,t ( n ),worst-case time complexity,False,0.0
+434,What term corresponds to the maximum measurement of time across all functions of n? ,t ( n ),worst-case time complexity,False,0.0
+435,What term corresponds to the maximum measurement of time across all functions of n? ,t ( n ),the worst-case time complexity,False,0.0
+436,How is worst-case time complexity written as an expression?,the maximum time taken over all inputs of size n,T(n),False,0.0
+437,How is worst-case time complexity written as an expression?,the maximum time taken over all inputs of size n,T(n),False,0.0
+438,How is worst-case time complexity written as an expression?,the maximum time taken over all inputs of size n,T(n),False,0.0
+439,"Assuming that T represents a polynomial in T(n), what is the term given to the corresponding algorithm?",polynomial time,polynomial time algorithm,False,0.8
+440,"Assuming that T represents a polynomial in T(n), what is the term given to the corresponding algorithm?",polynomial time,polynomial time,True,1.0
+441,"Assuming that T represents a polynomial in T(n), what is the term given to the corresponding algorithm?",polynomial time,polynomial time algorithm,False,0.8
+442,What is the term for a mathematical model that theoretically represents a general computing machine?,turing machine,A Turing machine,True,1.0
+443,What is the term for a mathematical model that theoretically represents a general computing machine?,turing machine,A Turing machine,True,1.0
+444,What is the term for a mathematical model that theoretically represents a general computing machine?,turing machine,Turing machine,True,1.0
+445,It is generally assumed that a Turing machine can solve anything capable of also being solved using what?,an algorithm,an algorithm,True,1.0
+446,It is generally assumed that a Turing machine can solve anything capable of also being solved using what?,an algorithm,an algorithm,True,1.0
+447,It is generally assumed that a Turing machine can solve anything capable of also being solved using what?,an algorithm,an algorithm,True,1.0
+448,What is the most commonplace model utilized in complexity theory?,turing machine,the Turing machine,True,1.0
+449,What is the most commonplace model utilized in complexity theory?,turing machine,the Turing machine,True,1.0
+450,What is the most commonplace model utilized in complexity theory?,turing machine,Turing machine,True,1.0
+451,What does a Turing machine handle on a strip of tape?,symbols,symbols,True,1.0
+452,What does a Turing machine handle on a strip of tape?,symbols,symbols,True,1.0
+453,What does a Turing machine handle on a strip of tape?,symbols,symbols,True,1.0
+454,What is generally considered to be the most basic iteration of a Turing machine?,deterministic turing machine,A deterministic Turing machine,True,1.0
+455,What is generally considered to be the most basic iteration of a Turing machine?,deterministic turing machine,deterministic,False,0.5
+456,What is generally considered to be the most basic iteration of a Turing machine?,deterministic turing machine,deterministic Turing machine,True,1.0
+457,What fixed set of factors determine the actions of a deterministic Turing machine,rules to determine its future actions,rules,False,0.29
+458,What fixed set of factors determine the actions of a deterministic Turing machine,rules to determine its future actions,rules,False,0.29
+459,What fixed set of factors determine the actions of a deterministic Turing machine,rules to determine its future actions,a fixed set of rules to determine its future actions,False,0.8
+460,What is the term used to identify a deterministic Turing machine that has additional random bits?,probabilistic turing machine,A probabilistic Turing machine,True,1.0
+461,What is the term used to identify a deterministic Turing machine that has additional random bits?,probabilistic turing machine,probabilistic,False,0.5
+462,What is the term used to identify a deterministic Turing machine that has additional random bits?,probabilistic turing machine,probabilistic Turing machine,True,1.0
+463,What type of Turing machine is capable of multiple actions and extends into a variety of computational paths?,non - deterministic turing machine,A non-deterministic Turing machine,False,0.57
+464,What type of Turing machine is capable of multiple actions and extends into a variety of computational paths?,non - deterministic turing machine,non-deterministic,False,0.0
+465,What type of Turing machine is capable of multiple actions and extends into a variety of computational paths?,non - deterministic turing machine,non-deterministic Turing machine,False,0.57
+466,What is the term given to algorithms that utilize random bits?,randomized algorithms,randomized algorithms,True,1.0
+467,What is the term given to algorithms that utilize random bits?,randomized algorithms,randomized algorithms,True,1.0
+468,What is the term given to algorithms that utilize random bits?,randomized algorithms,randomized algorithms,True,1.0
+469,Turing machines are commonly employed to define what? ,complexity classes,complexity classes,True,1.0
+470,Turing machines are commonly employed to define what? ,complexity classes,complexity classes,True,1.0
+471,Turing machines are commonly employed to define what? ,complexity classes,complexity classes,True,1.0
+472,What are two factors that directly effect how powerful a Turing machine may or may not be?,resources ( such as time or space ) are bounded,time or space,False,0.55
+473,What are two factors that directly effect how powerful a Turing machine may or may not be?,resources ( such as time or space ) are bounded,time or space,False,0.55
+474,What are two factors that directly effect how powerful a Turing machine may or may not be?,resources ( such as time or space ) are bounded,time or space,False,0.55
+475,"In the determination of complexity classes, what are two examples of types of Turing machines?","deterministic turing machines , probabilistic turing machines , non - deterministic turing machines , quantum turing machines , symmetric turing machines and alternating turing machines","probabilistic Turing machines, non-deterministic Turing machines",False,0.23
+476,"In the determination of complexity classes, what are two examples of types of Turing machines?","deterministic turing machines , probabilistic turing machines , non - deterministic turing machines , quantum turing machines , symmetric turing machines and alternating turing machines","probabilistic Turing machines, non-deterministic Turing machines",False,0.23
+477,What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?,random access machines,random access machines,True,1.0
+478,What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?,random access machines,random access machines,True,1.0
+479,What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?,random access machines,random access machines,True,1.0
+480,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",computational power,computational power,True,1.0
+481,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",computational power,computational power,True,1.0
+482,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",computational power,computational power,True,1.0
+483,What two resources commonly consumed by alternate models are typically known to vary?,time and memory,time and memory,True,1.0
+484,What two resources commonly consumed by alternate models are typically known to vary?,time and memory,time and memory consumption,False,0.86
+485,What two resources commonly consumed by alternate models are typically known to vary?,time and memory,time and memory consumption,False,0.86
+486,"What commonality do alternate machine models, such as random access machines, share with Turing machines?",the machines operate deterministically,the machines operate deterministically,True,1.0
+487,"What commonality do alternate machine models, such as random access machines, share with Turing machines?",the machines operate deterministically,deterministically,False,0.5
+488,"What commonality do alternate machine models, such as random access machines, share with Turing machines?",the machines operate deterministically,the machines operate deterministically,True,1.0
+489,What type of Turing machine can be characterized by checking multiple possibilities at the same time?,non - deterministic,non-deterministic,False,0.0
+490,What type of Turing machine can be characterized by checking multiple possibilities at the same time?,non - deterministic,non-deterministic,False,0.0
+491,What type of Turing machine can be characterized by checking multiple possibilities at the same time?,non - deterministic,non-deterministic Turing machine,False,0.0
+492,What often affects or facilitates ease of analysis in computational problems?,more unusual resources,unusual resources,False,0.8
+493,What often affects or facilitates ease of analysis in computational problems?,more unusual resources,more unusual resources,True,1.0
+494,What often affects or facilitates ease of analysis in computational problems?,more unusual resources,more unusual resources,True,1.0
+495,A non-deterministic Turing machine has the ability to capture what facet of useful analysis?,mathematical models,mathematical models,True,1.0
+496,A non-deterministic Turing machine has the ability to capture what facet of useful analysis?,mathematical models,mathematical models,True,1.0
+497,A non-deterministic Turing machine has the ability to capture what facet of useful analysis?,mathematical models,branching,False,0.0
+498,What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?,non - deterministic time,time,False,0.5
+499,What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?,non - deterministic time,non-deterministic time,False,0.4
+500,What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?,non - deterministic time,non-deterministic time,False,0.4
+501,The time required to output an answer on a deterministic Turing machine is expressed as what?,""" yes "" or "" no """,state transitions,False,0.0
+502,The time required to output an answer on a deterministic Turing machine is expressed as what?,""" yes "" or "" no ""","the total number of state transitions, or steps",False,0.2
+503,The time required to output an answer on a deterministic Turing machine is expressed as what?,""" yes "" or "" no ""","total number of state transitions, or steps, the machine makes before it halts and outputs the answer",False,0.11
+504,Complexity theory classifies problems based on what primary attribute?,difficulty,difficulty,True,1.0
+505,Complexity theory classifies problems based on what primary attribute?,difficulty,difficulty,True,1.0
+506,Complexity theory classifies problems based on what primary attribute?,difficulty,difficulty,True,1.0
+507,What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?,dtime ( f ( n ) ),DTIME(f(n)),False,0.0
+508,What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?,dtime ( f ( n ) ),DTIME(f(n)).,False,0.0
+509,What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?,dtime ( f ( n ) ),DTIME(f(n)),False,0.0
+510,What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?,time and space,time,False,0.5
+511,What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?,time and space,time,False,0.5
+512,What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?,time and space,time,False,0.5
+513,Time and space are both examples of what type of resource?,complexity,complexity resources,False,0.67
+514,Time and space are both examples of what type of resource?,complexity,complexity resources,False,0.67
+515,Time and space are both examples of what type of resource?,complexity,complexity,True,1.0
+516,A complexity resource can also be described as what other type of resource?,computational,computational resource,False,0.67
+517,A complexity resource can also be described as what other type of resource?,computational,computational,True,1.0
+518,A complexity resource can also be described as what other type of resource?,computational,computational,True,1.0
+519,What is typically used to broadly define complexity measures?,blum complexity axioms,Blum complexity axioms,True,1.0
+520,What is typically used to broadly define complexity measures?,blum complexity axioms,the Blum complexity axioms,True,1.0
+521,What is typically used to broadly define complexity measures?,blum complexity axioms,the Blum complexity axioms,True,1.0
+522,Communication complexity is an example of what type of measure?,complexity measures,Complexity measures,True,1.0
+523,Communication complexity is an example of what type of measure?,complexity measures,complexity measures,True,1.0
+524,Communication complexity is an example of what type of measure?,complexity measures,complexity,False,0.67
+525,Decision tree is an example of what type of measure?,complexity,Complexity measures,False,0.67
+526,Decision tree is an example of what type of measure?,complexity,complexity measures,False,0.67
+527,Decision tree is an example of what type of measure?,complexity,complexity,True,1.0
+528,What are the three primary expressions used to represent case complexity?,"best , worst and average","best, worst and average",True,1.0
+529,What are the three primary expressions used to represent case complexity?,"best , worst and average","best, worst and average case",False,0.89
+530,What are the three primary expressions used to represent case complexity?,"best , worst and average","best, worst and average case complexity",False,0.8
+531,Case complexity likelihoods provide variable probabilities of what general measure? ,time complexity,complexity measure,False,0.5
+532,Case complexity likelihoods provide variable probabilities of what general measure? ,time complexity,complexity,False,0.67
+533,Case complexity likelihoods provide variable probabilities of what general measure? ,time complexity,complexity,False,0.67
+534,What is one common example of a critical complexity measure?,time complexity,time,False,0.67
+535,What is one common example of a critical complexity measure?,time complexity,time complexity,True,1.0
+536,What is one common example of a critical complexity measure?,time complexity,time complexity,True,1.0
+537,Case complexities provide three likelihoods of what differing variable that remains the same size? ,inputs,inputs,True,1.0
+538,Case complexities provide three likelihoods of what differing variable that remains the same size? ,inputs,inputs,True,1.0
+539,Case complexities provide three likelihoods of what differing variable that remains the same size? ,inputs,inputs,True,1.0
+540,What provides a solution to a list of integers provided as input that ned to be sorted?,quicksort,deterministic sorting algorithm quicksort,False,0.4
+541,What provides a solution to a list of integers provided as input that ned to be sorted?,quicksort,quicksort,True,1.0
+542,What provides a solution to a list of integers provided as input that ned to be sorted?,quicksort,the deterministic sorting algorithm quicksort,False,0.4
+543,"When extensive time is required to sort integers, this represents what case complexity?",worst - case,worst-case,False,0.0
+544,"When extensive time is required to sort integers, this represents what case complexity?",worst - case,worst,False,0.67
+545,"When extensive time is required to sort integers, this represents what case complexity?",worst - case,worst-case,False,0.0
+546,What is the expression used to denote a worst case complexity as expressed by time taken?,o ( n2 ),O(n2),False,0.0
+547,What is the expression used to denote a worst case complexity as expressed by time taken?,o ( n2 ),O(n2),False,0.0
+548,What is the expression used to denote a worst case complexity as expressed by time taken?,o ( n2 ),O(n2),False,0.0
+549,Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ,the most efficient algorithm,the most efficient algorithm,True,1.0
+550,Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ,the most efficient algorithm,the most efficient algorithm,True,1.0
+551,Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ,the most efficient algorithm,the most efficient algorithm solving a given problem,False,0.67
+552,The analysis of a specific algorithm is typically assigned to what field of computational science?,analysis of algorithms,analysis of algorithms,True,1.0
+553,The analysis of a specific algorithm is typically assigned to what field of computational science?,analysis of algorithms,analysis of algorithms,True,1.0
+554,The analysis of a specific algorithm is typically assigned to what field of computational science?,analysis of algorithms,analysis of algorithms,True,1.0
+555,Which bound of time is more difficult to establish?,lower bounds,lower bounds,True,1.0
+556,Which bound of time is more difficult to establish?,lower bounds,lower,False,0.67
+557,Which bound of time is more difficult to establish?,lower bounds,lower bounds,True,1.0
+558,A specific algorithm demonstrating T(n) represents what measure of time complexity?,upper bound,upper bound,True,1.0
+559,A specific algorithm demonstrating T(n) represents what measure of time complexity?,upper bound,upper and lower bounds,False,0.33
+560,A specific algorithm demonstrating T(n) represents what measure of time complexity?,upper bound,upper bound,True,1.0
+561,What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ,all possible algorithms,all possible algorithms,True,1.0
+562,What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ,all possible algorithms,all possible algorithms,True,1.0
+563,What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ,all possible algorithms,all possible algorithms,True,1.0
+564,What expression is generally used to convey upper or lower bounds?,big o notation,big O notation,True,1.0
+565,What expression is generally used to convey upper or lower bounds?,big o notation,big O notation,True,1.0
+566,What expression is generally used to convey upper or lower bounds?,big o notation,big O notation,True,1.0
+567,What does a big O notation hide?,constant factors and smaller terms,constant factors and smaller terms,True,1.0
+568,What does a big O notation hide?,constant factors and smaller terms,constant factors and smaller terms,True,1.0
+569,What does a big O notation hide?,constant factors and smaller terms,constant factors and smaller terms,True,1.0
+570,How would one write T(n) = 7n2 + 15n + 40 in big O notation? ,o ( n2 ),T(n) = O(n2),False,0.0
+571,How would one write T(n) = 7n2 + 15n + 40 in big O notation? ,o ( n2 ),T(n) = O(n2),False,0.0
+572,How would one write T(n) = 7n2 + 15n + 40 in big O notation? ,o ( n2 ),T(n) = O(n2),False,0.0
+573,Big O notation provides autonomy to upper and lower bounds with relationship to what? ,computational model used,the computational model,False,0.8
+574,Big O notation provides autonomy to upper and lower bounds with relationship to what? ,computational model used,specific details of the computational model used,False,0.67
+575,Big O notation provides autonomy to upper and lower bounds with relationship to what? ,computational model used,the specific details of the computational model used,False,0.67
+576,What has complicated definitions that prevent classification into a framework?,complexity classes,complexity classes,True,1.0
+577,What has complicated definitions that prevent classification into a framework?,complexity classes,complexity classes,True,1.0
+578,What has complicated definitions that prevent classification into a framework?,complexity classes,some complexity classes,False,0.8
+579,Complexity classes are generally classified into what?,Not Found,framework,False,0.0
+580,Complexity classes are generally classified into what?,Not Found,framework,False,0.0
+581,Complexity classes are generally classified into what?,Not Found,framework,False,0.0
+582,Difficulty in establishing a framework for complexity classes can be caused by what variable?,complicated definitions,complicated definitions,True,1.0
+583,Difficulty in establishing a framework for complexity classes can be caused by what variable?,complicated definitions,complicated definitions,True,1.0
+584,Difficulty in establishing a framework for complexity classes can be caused by what variable?,complicated definitions,definitions,False,0.67
+585,Concrete bounding of computation time frequently produces complexity classes contingent upon what?,the chosen machine model,chosen machine model,True,1.0
+586,Concrete bounding of computation time frequently produces complexity classes contingent upon what?,the chosen machine model,the chosen machine model,True,1.0
+587,Concrete bounding of computation time frequently produces complexity classes contingent upon what?,the chosen machine model,the chosen machine model,True,1.0
+588,A multi-tape Turing machine requires what type of time for a solution?,linear time,linear time,True,1.0
+589,A multi-tape Turing machine requires what type of time for a solution?,linear time,linear,False,0.67
+590,A multi-tape Turing machine requires what type of time for a solution?,linear time,linear,False,0.67
+591,A language solved in quadratic time implies the use of what type of Turing machine?,single - tape turing machines,single-tape Turing machines,False,0.57
+592,A language solved in quadratic time implies the use of what type of Turing machine?,single - tape turing machines,single-tape,False,0.0
+593,A language solved in quadratic time implies the use of what type of Turing machine?,single - tape turing machines,single-tape,False,0.0
+594,What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ,cobham - edmonds,Cobham-Edmonds thesis,False,0.0
+595,What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ,cobham - edmonds,Cobham-Edmonds,False,0.0
+596,What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ,cobham - edmonds,Cobham-Edmonds thesis,False,0.0
+597,Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?,complexity class p,complexity class P,True,1.0
+598,Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?,complexity class p,P,False,0.5
+599,Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?,complexity class p,complexity class P,True,1.0
+600,What are two examples of measurements are bound within algorithms to establish complexity classes?,time or space,time or space,True,1.0
+601,What are two examples of measurements are bound within algorithms to establish complexity classes?,time or space,time or space,True,1.0
+602,What are two examples of measurements are bound within algorithms to establish complexity classes?,time or space,time or space,True,1.0
+603,What function is used by algorithms to define measurements like time or space?,bounding,bounding,True,1.0
+604,What function is used by algorithms to define measurements like time or space?,bounding,bounding,True,1.0
+605,What function is used by algorithms to define measurements like time or space?,bounding,bounding,True,1.0
+606,Bounding of time and space or similar measurements is often used by algorithms to define what?,complexity classes,complexity classes,True,1.0
+607,Bounding of time and space or similar measurements is often used by algorithms to define what?,complexity classes,complexity classes,True,1.0
+608,Bounding of time and space or similar measurements is often used by algorithms to define what?,complexity classes,complexity classes,True,1.0
+609,What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?,"bpp , zpp and rp","BPP, ZPP and RP",True,1.0
+610,What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?,"bpp , zpp and rp","BPP, ZPP and RP",True,1.0
+611,What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?,"bpp , zpp and rp","BPP, ZPP and RP",True,1.0
+612,AC and NC are complexity classes typically associated with what type of circuit?,boolean,Boolean,True,1.0
+613,AC and NC are complexity classes typically associated with what type of circuit?,boolean,Boolean,True,1.0
+614,AC and NC are complexity classes typically associated with what type of circuit?,boolean,Boolean circuits;,False,0.67
+615,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,quantum,True,1.0
+616,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,quantum,True,1.0
+617,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,quantum,True,1.0
+618,What is the expression used to represent a complexity class of counting problems?,# p,#P,True,1.0
+619,What is the expression used to represent a complexity class of counting problems?,# p,#P,True,1.0
+620,What is the expression used to represent a complexity class of counting problems?,# p,#P,True,1.0
+621,IP and AM are most commonly defined by what type of proof system?,interactive,Interactive,True,1.0
+622,IP and AM are most commonly defined by what type of proof system?,interactive,Interactive,True,1.0
+623,IP and AM are most commonly defined by what type of proof system?,interactive,Interactive,True,1.0
+624,What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?,computation time,computation time,True,1.0
+625,What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?,computation time,computation time,True,1.0
+626,What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?,computation time,computation time,True,1.0
+627,In what expression can one expect to find DTIME(n),dtime ( n2 ),DTIME(n2),False,0.0
+628,In what expression can one expect to find DTIME(n),dtime ( n2 ),DTIME(n2),False,0.0
+629,In what expression can one expect to find DTIME(n),dtime ( n2 ),DTIME(n2),False,0.0
+630,What theorems are responsible for determining questions of time and space requirements?,time and space hierarchy theorems,time and space hierarchy theorems,True,1.0
+631,What theorems are responsible for determining questions of time and space requirements?,time and space hierarchy theorems,time and space hierarchy theorems,True,1.0
+632,What theorems are responsible for determining questions of time and space requirements?,time and space hierarchy theorems,time and space hierarchy theorems,True,1.0
+633,Resources are constrained by hierarchy theorems to produce what?,a proper hierarchy,a proper hierarchy on the classes defined,False,0.57
+634,Resources are constrained by hierarchy theorems to produce what?,a proper hierarchy,a proper hierarchy on the classes,False,0.67
+635,Resources are constrained by hierarchy theorems to produce what?,a proper hierarchy,a proper hierarchy,True,1.0
+636,What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?,quantitative,quantitative statements,False,0.67
+637,What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?,quantitative,quantitative,True,1.0
+638,What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?,quantitative,quantitative,True,1.0
+639,What is the foundation for separation results within complexity classes?,the time and space hierarchy theorems,time and space hierarchy theorems,True,1.0
+640,What is the foundation for separation results within complexity classes?,the time and space hierarchy theorems,The time and space hierarchy theorems,True,1.0
+641,What is the foundation for separation results within complexity classes?,the time and space hierarchy theorems,time and space hierarchy theorems,True,1.0
+642,What is responsible for constraining P according to the time hierarchy theorem?,exptime,EXPTIME,True,1.0
+643,What is responsible for constraining P according to the time hierarchy theorem?,exptime,EXPTIME,True,1.0
+644,What is responsible for constraining P according to the time hierarchy theorem?,exptime,EXPTIME,True,1.0
+645,Within what variable is L constrained according to the space hierarchy theorem?,pspace,PSPACE,True,1.0
+646,Within what variable is L constrained according to the space hierarchy theorem?,pspace,PSPACE,True,1.0
+647,Within what variable is L constrained according to the space hierarchy theorem?,pspace,PSPACE,True,1.0
+648,What concept is frequently used to define complexity classes?,reduction,reduction,True,1.0
+649,What concept is frequently used to define complexity classes?,reduction,a reduction,True,1.0
+650,What concept is frequently used to define complexity classes?,reduction,reduction,True,1.0
+651,Reduction essentially takes one problem and converts into what?,another problem,another problem,True,1.0
+652,Reduction essentially takes one problem and converts into what?,another problem,another problem,True,1.0
+653,Reduction essentially takes one problem and converts into what?,another problem,another problem,True,1.0
+654,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",no more difficult,reduces,False,0.0
+655,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",no more difficult,reduces,False,0.0
+656,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",no more difficult,X reduces to Y,False,0.0
+657,What are two examples of different types of reduction?,"cook reductions , karp reductions and levin reductions",Karp reductions and Levin reductions,False,0.67
+658,What are two examples of different types of reduction?,"cook reductions , karp reductions and levin reductions","Cook reductions, Karp reductions",False,0.55
+659,Polynomial time reductions are an example of what?,bound on the complexity of reductions,the bound on the complexity of reductions,True,1.0
+660,Polynomial time reductions are an example of what?,bound on the complexity of reductions,types of reductions,False,0.5
+661,Polynomial time reductions are an example of what?,bound on the complexity of reductions,the bound on the complexity of reductions,True,1.0
+662,What is the most frequently employed type of reduction?,polynomial - time reduction,polynomial-time reduction,False,0.4
+663,What is the most frequently employed type of reduction?,polynomial - time reduction,polynomial-time,False,0.0
+664,What is the most frequently employed type of reduction?,polynomial - time reduction,polynomial-time reduction,False,0.4
+665,What equates to a squared integer according to polynomial time reduction?,multiplying two integers,multiplying two integers,True,1.0
+666,What equates to a squared integer according to polynomial time reduction?,multiplying two integers,multiplying two integers,True,1.0
+667,What equates to a squared integer according to polynomial time reduction?,multiplying two integers,multiplying two integers,True,1.0
+668,What measurement of time is used in polynomial time reduction?,polynomial time,polynomial time,True,1.0
+669,What measurement of time is used in polynomial time reduction?,polynomial time,polynomial,False,0.67
+670,What measurement of time is used in polynomial time reduction?,polynomial time,polynomial time,True,1.0
+671,What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ,input,input,True,1.0
+672,What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ,input,input,True,1.0
+673,What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ,input,input,True,1.0
+674,According to polynomial time reduction squaring can ultimately be logically reduced to what?,the problem of multiplying two integers,multiplication,False,0.0
+675,According to polynomial time reduction squaring can ultimately be logically reduced to what?,the problem of multiplying two integers,multiplication,False,0.0
+676,According to polynomial time reduction squaring can ultimately be logically reduced to what?,the problem of multiplying two integers,multiplication,False,0.0
+677,The complexity of problems often depends on what?,the type of reduction being used,the type of reduction being used,True,1.0
+678,The complexity of problems often depends on what?,the type of reduction being used,the type of reduction being used,True,1.0
+679,What would create a conflict between a problem X and problem C within the context of reduction? ,Not Found,if every problem in C can be reduced to X,False,0.0
+680,What would create a conflict between a problem X and problem C within the context of reduction? ,Not Found,problem in C is harder than X,False,0.0
+681,An algorithm for X which reduces to C would us to do what?,solve any problem in c,solve any problem in C,True,1.0
+682,An algorithm for X which reduces to C would us to do what?,solve any problem in c,solve any problem in C,True,1.0
+683,An algorithm for X which reduces to C would us to do what?,solve any problem in c,solve any problem in C,True,1.0
+684,A problem set that that is hard for the expression NP can also be stated how?,np - hard problems,NP-hard,False,0.0
+685,A problem set that that is hard for the expression NP can also be stated how?,np - hard problems,NP-hard,False,0.0
+686,A problem set that that is hard for the expression NP can also be stated how?,np - hard problems,NP-hard problems,False,0.4
+687,The hardest problems in NP can be analogously written as what class of problems?,np - complete problems,NP-complete,False,0.0
+688,The hardest problems in NP can be analogously written as what class of problems?,np - complete problems,NP-complete,False,0.0
+689,The hardest problems in NP can be analogously written as what class of problems?,np - complete problems,NP-complete,False,0.0
+690,NP complete problems contain the lowest likelihood of being located in what problem class?,p,NP,False,0.0
+691,NP complete problems contain the lowest likelihood of being located in what problem class?,p,P,True,1.0
+692,NP complete problems contain the lowest likelihood of being located in what problem class?,p,P,True,1.0
+693,"If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis Π2 to  Π1, what conclusion can be drawn for Π1?",there is no known polynomial - time solution,there is no known polynomial-time solution,False,0.77
+694,"If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis Π2 to  Π1, what conclusion can be drawn for Π1?",there is no known polynomial - time solution,no known polynomial-time solution,False,0.55
+695,"If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis Π2 to  Π1, what conclusion can be drawn for Π1?",there is no known polynomial - time solution,there is no known polynomial-time solution,False,0.77
+696,"If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",np,NP,True,1.0
+697,"If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",np,NP,True,1.0
+698,"If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",np,NP,True,1.0
+699,What complexity class is characterized by a computational tasks and efficient algorithms?,p,P,True,1.0
+700,What complexity class is characterized by a computational tasks and efficient algorithms?,p,P,True,1.0
+701,What complexity class is characterized by a computational tasks and efficient algorithms?,p,P,True,1.0
+702,What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?,cobham – edmonds thesis,Cobham–Edmonds thesis,False,0.33
+703,What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?,cobham – edmonds thesis,Cobham–Edmonds thesis,False,0.33
+704,What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?,cobham – edmonds thesis,Cobham–Edmonds thesis,False,0.33
+705,What complexity class is commonly characterized by unknown algorithms to enhance solvability?,np,NP,True,1.0
+706,What complexity class is commonly characterized by unknown algorithms to enhance solvability?,np,NP,True,1.0
+707,What complexity class is commonly characterized by unknown algorithms to enhance solvability?,np,NP,True,1.0
+708,What is an example of a problem that rests within the NP complexity class?,boolean satisfiability problem,Boolean satisfiability problem,True,1.0
+709,What is an example of a problem that rests within the NP complexity class?,boolean satisfiability problem,Boolean satisfiability problem,True,1.0
+710,In what theoretical machine is it confirmed that a problem in P belies membership in the NP class?,deterministic turing machines,Turing machines,False,0.8
+711,In what theoretical machine is it confirmed that a problem in P belies membership in the NP class?,deterministic turing machines,deterministic Turing machines,True,1.0
+712,In what theoretical machine is it confirmed that a problem in P belies membership in the NP class?,deterministic turing machines,deterministic Turing machines,True,1.0
+713,"If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?",more efficient solutions,more efficient solutions,True,1.0
+714,"If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?",more efficient solutions,shown to have more efficient solutions,False,0.67
+715,"If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?",more efficient solutions,many important problems can be shown to have more efficient solutions,False,0.43
+716,What is a particular problem in biology that would benefit from determining that P = NP?,protein structure prediction,protein structure prediction,True,1.0
+717,What is a particular problem in biology that would benefit from determining that P = NP?,protein structure prediction,protein structure prediction,True,1.0
+718,What is a particular problem in biology that would benefit from determining that P = NP?,protein structure prediction,protein structure prediction,True,1.0
+719,What is the prize offered for finding a solution to P=NP?,"us $ 1 , 000 , 000","$1,000,000",False,0.0
+720,What is the prize offered for finding a solution to P=NP?,"us $ 1 , 000 , 000","US$1,000,000",False,0.0
+721,What is the prize offered for finding a solution to P=NP?,"us $ 1 , 000 , 000","US$1,000,000",False,0.0
+722,Who demonstrated that P= NP implies problems not present in P or NP-complete?,ladner,Ladner,True,1.0
+723,Who demonstrated that P= NP implies problems not present in P or NP-complete?,ladner,Ladner,True,1.0
+724,Who demonstrated that P= NP implies problems not present in P or NP-complete?,ladner,Ladner,True,1.0
+725,What is the name for a problem that meets Ladner's assertion?,the graph isomorphism problem,NP-intermediate problems,False,0.0
+726,What is the name for a problem that meets Ladner's assertion?,the graph isomorphism problem,NP-intermediate problems,False,0.0
+727,What is the name for a problem that meets Ladner's assertion?,the graph isomorphism problem,NP-intermediate,False,0.0
+728,What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ,the integer factorization problem,graph isomorphism problem,False,0.33
+729,What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ,the integer factorization problem,the discrete logarithm problem,False,0.33
+730,What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ,the integer factorization problem,"graph isomorphism problem, the discrete logarithm problem and the integer factorization problem",False,0.46
+731,What is the problem attributed to defining if two finite graphs are isomorphic?,graph isomorphism problem,The graph isomorphism problem,True,1.0
+732,What is the problem attributed to defining if two finite graphs are isomorphic?,graph isomorphism problem,graph isomorphism,False,0.8
+733,What is the problem attributed to defining if two finite graphs are isomorphic?,graph isomorphism problem,The graph isomorphism problem,True,1.0
+734,What class is most commonly not ascribed to the graph isomorphism problem in spite of definitive determination?,np - complete,NP-complete,False,0.0
+735,What class is most commonly not ascribed to the graph isomorphism problem in spite of definitive determination?,np - complete,NP-complete,False,0.0
+736,What class is most commonly not ascribed to the graph isomorphism problem in spite of definitive determination?,np - complete,NP-complete,False,0.0
+737,What finite hierarchy implies that the graph isomorphism problem is NP-complete? ,polynomial time hierarchy collapses to its second level . since it is widely believed that the polynomial hierarchy,polynomial time hierarchy,False,0.32
+738,What finite hierarchy implies that the graph isomorphism problem is NP-complete? ,polynomial time hierarchy collapses to its second level . since it is widely believed that the polynomial hierarchy,polynomial time,False,0.22
+739,What finite hierarchy implies that the graph isomorphism problem is NP-complete? ,polynomial time hierarchy collapses to its second level . since it is widely believed that the polynomial hierarchy,polynomial time hierarchy,False,0.32
+740,To what level would the polynomial time hierarchy collapse if graph isomorphism is NP-complete?,second level,second level,True,1.0
+741,To what level would the polynomial time hierarchy collapse if graph isomorphism is NP-complete?,second level,second,False,0.67
+742,To what level would the polynomial time hierarchy collapse if graph isomorphism is NP-complete?,second level,second,False,0.67
+743,Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?,laszlo babai and eugene luks,Laszlo Babai and Eugene Luks,True,1.0
+744,Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?,laszlo babai and eugene luks,Babai and Eugene Luks,False,0.89
+745,Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?,laszlo babai and eugene luks,Laszlo Babai and Eugene Luks,True,1.0
+746,What computational problem is commonly associated with prime factorization?,integer factorization problem,The integer factorization problem,True,1.0
+747,What computational problem is commonly associated with prime factorization?,integer factorization problem,integer factorization,False,0.8
+748,What computational problem is commonly associated with prime factorization?,integer factorization problem,integer factorization problem,True,1.0
+749,The integer factorization problem essentially seeks to determine if the value of of an input is less than what variable? ,k,k,True,1.0
+750,The integer factorization problem essentially seeks to determine if the value of of an input is less than what variable? ,k,k,True,1.0
+751,The integer factorization problem essentially seeks to determine if the value of of an input is less than what variable? ,k,k,True,1.0
+752,That there currently exists no known integer factorization problem underpins what commonly used system?,rsa algorithm,modern cryptographic systems,False,0.0
+753,That there currently exists no known integer factorization problem underpins what commonly used system?,rsa algorithm,modern cryptographic systems,False,0.0
+754,That there currently exists no known integer factorization problem underpins what commonly used system?,rsa algorithm,RSA algorithm,True,1.0
+755,What is the most well-known algorithm associated with the integer factorization problem?,general number field sieve,the general number field sieve,True,1.0
+756,What is the most well-known algorithm associated with the integer factorization problem?,general number field sieve,RSA,False,0.0
+757,What is the most well-known algorithm associated with the integer factorization problem?,general number field sieve,general number field sieve,True,1.0
+758,What is the unproven assumption generally ascribed to the value of complexity classes?,unequal,suspected to be unequal,False,0.4
+759,What is the unproven assumption generally ascribed to the value of complexity classes?,unequal,unequal,True,1.0
+760,What is the unproven assumption generally ascribed to the value of complexity classes?,unequal,Many known complexity classes are suspected to be unequal,False,0.2
+761,What is an expression that can be used to illustrate the suspected inequality of complexity classes?,p = pspace,P ⊆ NP ⊆ PP ⊆ PSPACE,False,0.44
+762,What is an expression that can be used to illustrate the suspected inequality of complexity classes?,p = pspace,P ⊆ NP ⊆ PP ⊆ PSPACE,False,0.44
+763,What is an expression that can be used to illustrate the suspected inequality of complexity classes?,p = pspace,P ⊆ NP ⊆ PP ⊆ PSPACE,False,0.44
+764,"Where can the complexity classes RP, BPP, PP, BQP, MA, and PH be located?",Not Found,between P and PSPACE,False,0.0
+765,"Where can the complexity classes RP, BPP, PP, BQP, MA, and PH be located?",Not Found,between P and PSPACE,False,0.0
+766,"Where can the complexity classes RP, BPP, PP, BQP, MA, and PH be located?",Not Found,between P and PSPACE,False,0.0
+767,What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?,proving that any of these classes are unequal,Proving that any of these classes are unequal,True,1.0
+768,What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?,proving that any of these classes are unequal,Proving that any of these classes are unequal,True,1.0
+769,What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?,proving that any of these classes are unequal,Proving that any of these classes are unequal,True,1.0
+770,In what complexity class do complement problems of NP problems exist?,co - np,co-NP,False,0.0
+771,In what complexity class do complement problems of NP problems exist?,co - np,co-NP,False,0.0
+772,In what complexity class do complement problems of NP problems exist?,co - np,co-NP,False,0.0
+773,How do the yes/no answers of a complement problem of NP appear?,reversed,reversed,True,1.0
+774,How do the yes/no answers of a complement problem of NP appear?,reversed,reversed,True,1.0
+775,How do the yes/no answers of a complement problem of NP appear?,reversed,reversed,True,1.0
+776,What is commonly believed to be the value relationship between P and co-NP,"np is not equal to co - np ; however , it has not yet been proven . it has been shown that if these two complexity classes are not equal then p is not equal to np",not equal,False,0.11
+777,What is commonly believed to be the value relationship between P and co-NP,"np is not equal to co - np ; however , it has not yet been proven . it has been shown that if these two complexity classes are not equal then p is not equal to np",not equal,False,0.11
+778,What is commonly believed to be the value relationship between P and co-NP,"np is not equal to co - np ; however , it has not yet been proven . it has been shown that if these two complexity classes are not equal then p is not equal to np",not equal,False,0.11
+779,What implication can be derived for P and NP if P and co-NP are established to be unequal?,p is not equal to np,P is not equal to NP,True,1.0
+780,What implication can be derived for P and NP if P and co-NP are established to be unequal?,p is not equal to np,not equal,False,0.5
+781,What implication can be derived for P and NP if P and co-NP are established to be unequal?,p is not equal to np,P is not equal to NP,True,1.0
+782,What variable is associated with all problems solved within logarithmic space?,l,L,True,1.0
+783,What variable is associated with all problems solved within logarithmic space?,l,L,True,1.0
+784,What variable is associated with all problems solved within logarithmic space?,l,L,True,1.0
+785,"Though unkown, what are the most commonly ascribed attributes of L in relation to P",Not Found,strictly contained in P or equal to P,False,0.0
+786,"Though unkown, what are the most commonly ascribed attributes of L in relation to P",Not Found,contained in P or equal to P.,False,0.0
+787,"Though unkown, what are the most commonly ascribed attributes of L in relation to P",Not Found,strictly contained in P or equal to P,False,0.0
+788,What lies between L and P that prevents a definitive determination of the relationship between L and P?,complexity classes,complexity classes,True,1.0
+789,What lies between L and P that prevents a definitive determination of the relationship between L and P?,complexity classes,many complexity classes,False,0.8
+790,What lies between L and P that prevents a definitive determination of the relationship between L and P?,complexity classes,many complexity classes,False,0.8
+791,What are two complexity classes between L and P?,nl and nc,NL and NC,True,1.0
+792,What are two complexity classes between L and P?,nl and nc,NL and NC,True,1.0
+793,What are two complexity classes between L and P?,nl and nc,NL and NC,True,1.0
+794,What is unknown about the complexity classes between L and P that further prevents determining the value relationship between L and P?,it is not known if they are distinct or equal classes,if they are distinct or equal classes,False,0.78
+795,What is unknown about the complexity classes between L and P that further prevents determining the value relationship between L and P?,it is not known if they are distinct or equal classes,if they are distinct or equal classes,False,0.78
+796,What is unknown about the complexity classes between L and P that further prevents determining the value relationship between L and P?,it is not known if they are distinct or equal classes,if they are distinct or equal classes,False,0.78
+797,Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?,intractable problems,intractable problems,True,1.0
+798,Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?,intractable problems,intractable problems,True,1.0
+799,Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?,intractable problems,intractable,False,0.67
+800,Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?,intractable problems,intractable,False,0.67
+801,Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?,polynomial time,exponential-time algorithms,False,0.0
+802,Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?,polynomial time,exponential-time,False,0.0
+803,Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?,polynomial time,exponential-time algorithms,False,0.0
+804,Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?,polynomial time,exponential-time algorithms,False,0.0
+805,"If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",np - complete,NP-complete problems,False,0.0
+806,"If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",np - complete,NP-complete,False,0.0
+807,"If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",np - complete,NP-complete,False,0.0
+808,"If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",np - complete,NP-complete,False,0.0
+809,What eponymous variation of arithmetic presents a decision problem not evidenced in P?,presburger arithmetic,Presburger arithmetic,True,1.0
+810,What eponymous variation of arithmetic presents a decision problem not evidenced in P?,presburger arithmetic,Presburger,False,0.67
+811,What eponymous variation of arithmetic presents a decision problem not evidenced in P?,presburger arithmetic,Presburger arithmetic,True,1.0
+812,"Despite the Presburger problem, and in view of intractability, what has been done to establish solutions in reasonable periods of time?",algorithms,algorithms have been written,False,0.4
+813,"Despite the Presburger problem, and in view of intractability, what has been done to establish solutions in reasonable periods of time?",algorithms,algorithms have been written,False,0.4
+814,"Despite the Presburger problem, and in view of intractability, what has been done to establish solutions in reasonable periods of time?",algorithms,algorithms have been written that solve the problem in reasonable times in most cases,False,0.14
+815,What is an example of a problem to which effective algorithms have provided a solution in spite of the intractability associated with the breadth of sizes?,np - complete knapsack problem,NP-complete knapsack problem,False,0.57
+816,What is an example of a problem to which effective algorithms have provided a solution in spite of the intractability associated with the breadth of sizes?,np - complete knapsack problem,NP-complete knapsack,False,0.33
+817,What is an example of a problem to which effective algorithms have provided a solution in spite of the intractability associated with the breadth of sizes?,np - complete knapsack problem,the NP-complete knapsack problem,False,0.57
+818,How quickly can an algorithm solve an NP-complete knapsack problem?,less than quadratic time,in less than quadratic time,False,0.89
+819,How quickly can an algorithm solve an NP-complete knapsack problem?,less than quadratic time,less than quadratic time,True,1.0
+820,How quickly can an algorithm solve an NP-complete knapsack problem?,less than quadratic time,less than quadratic time,True,1.0
+821,What is the example of another problem characterized by large instances that is routinely solved by SAT handlers employing efficient algorithms?,np - complete boolean satisfiability problem,NP-complete Boolean satisfiability problem,False,0.67
+822,What is the example of another problem characterized by large instances that is routinely solved by SAT handlers employing efficient algorithms?,np - complete boolean satisfiability problem,NP-complete Boolean satisfiability,False,0.5
+823,What is the example of another problem characterized by large instances that is routinely solved by SAT handlers employing efficient algorithms?,np - complete boolean satisfiability problem,the NP-complete Boolean satisfiability problem,False,0.67
+824,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,turing machines,foundations were laid out,False,0.0
+825,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,turing machines,numerous foundations were laid out,False,0.0
+826,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,turing machines,numerous foundations were laid out by various researchers,False,0.0
+827,Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?,alan turing,Alan Turing,True,1.0
+828,Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?,alan turing,Alan Turing,True,1.0
+829,Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?,alan turing,Alan Turing,True,1.0
+830,What theoretical device is attributed to Alan Turing?,turing machines,Turing machines,True,1.0
+831,What theoretical device is attributed to Alan Turing?,turing machines,Turing machines,True,1.0
+832,What theoretical device is attributed to Alan Turing?,turing machines,Turing machines,True,1.0
+833,In what year was the Alan Turing's definitional model of a computing device received?,1936,1936,True,1.0
+834,In what year was the Alan Turing's definitional model of a computing device received?,1936,1936,True,1.0
+835,In what year was the Alan Turing's definitional model of a computing device received?,1936,1936,True,1.0
+836,In the most basic sense what did a Turing machine emulate?,a computer,a computer,True,1.0
+837,In the most basic sense what did a Turing machine emulate?,a computer,a computer,True,1.0
+838,In the most basic sense what did a Turing machine emulate?,a computer,a computer,True,1.0
+839,What paper is commonly considered the bellwether ushering in systematic studies computational complexity?,""" on the computational complexity of algorithms",On the Computational Complexity of Algorithms,True,1.0
+840,What paper is commonly considered the bellwether ushering in systematic studies computational complexity?,""" on the computational complexity of algorithms",On the Computational Complexity of Algorithms,True,1.0
+841,What paper is commonly considered the bellwether ushering in systematic studies computational complexity?,""" on the computational complexity of algorithms","""On the Computational Complexity of Algorithms""",True,1.0
+842,"What individuals were responsible for authoring ""On the Computational Complexity of Algorithms""?",juris hartmanis and richard stearns,Juris Hartmanis and Richard Stearns,True,1.0
+843,"What individuals were responsible for authoring ""On the Computational Complexity of Algorithms""?",juris hartmanis and richard stearns,Juris Hartmanis and Richard Stearns,True,1.0
+844,"What individuals were responsible for authoring ""On the Computational Complexity of Algorithms""?",juris hartmanis and richard stearns,Juris Hartmanis and Richard Stearns,True,1.0
+845,In what year was Hatmanis and Stearn's seminal work in computational complexity received? ,1965,1965,True,1.0
+846,In what year was Hatmanis and Stearn's seminal work in computational complexity received? ,1965,1965,True,1.0
+847,In what year was Hatmanis and Stearn's seminal work in computational complexity received? ,1965,1965,True,1.0
+848,"What complex measurements were defined by ""On the Computational Complexity of Algorithms""?",time and space complexity,time and space,False,0.86
+849,"What complex measurements were defined by ""On the Computational Complexity of Algorithms""?",time and space complexity,definitions of time and space complexity,False,0.8
+850,"What complex measurements were defined by ""On the Computational Complexity of Algorithms""?",time and space complexity,time and space complexity,True,1.0
+851,"In what year did Edmond's characterize a ""good"" algorithm?",1965,1965,True,1.0
+852,"In what year did Edmond's characterize a ""good"" algorithm?",1965,1965,True,1.0
+853,"In what year did Edmond's characterize a ""good"" algorithm?",1965,1965,True,1.0
+854,Who provided a definition of linear bounded automata in 1960?,john myhill,John Myhill,True,1.0
+855,Who provided a definition of linear bounded automata in 1960?,john myhill,John Myhill,True,1.0
+856,Who provided a definition of linear bounded automata in 1960?,john myhill,John Myhill,True,1.0
+857,In what year did Raymond Sullivan publish a study of rudimentary sets?,1961,1961,True,1.0
+858,In what year did Raymond Sullivan publish a study of rudimentary sets?,1961,1961,True,1.0
+859,In what year did Raymond Sullivan publish a study of rudimentary sets?,1961,1961,True,1.0
+860,"In 1962, who was responsible for the authorship of a paper published on real time-computations?",hisao yamada,Hisao Yamada,True,1.0
+861,"In 1962, who was responsible for the authorship of a paper published on real time-computations?",hisao yamada,Hisao Yamada,True,1.0
+862,"In 1962, who was responsible for the authorship of a paper published on real time-computations?",hisao yamada,Hisao Yamada,True,1.0
+863,What is the concrete choice typically assumed by most complexity-theoretic theorems?,input encoding,input encoding,True,1.0
+864,What is the concrete choice typically assumed by most complexity-theoretic theorems?,input encoding,input encoding,True,1.0
+865,What is the concrete choice typically assumed by most complexity-theoretic theorems?,input encoding,input encoding,True,1.0
+866,"In the effort of maintaining a level of abstraction, what choice is typically left independent?",encoding,encoding,True,1.0
+867,"In the effort of maintaining a level of abstraction, what choice is typically left independent?",encoding,encoding,True,1.0
+868,"In the effort of maintaining a level of abstraction, what choice is typically left independent?",encoding,encoding,True,1.0
+869,Who is responsible for axiomatic complexity theory?,manuel blum,Manuel Blum,True,1.0
+870,Who is responsible for axiomatic complexity theory?,manuel blum,Manuel Blum,True,1.0
+871,Who is responsible for axiomatic complexity theory?,manuel blum,Manuel Blum,True,1.0
+872,What theorem was implicated by Manuel Blum's axioms?,speed - up theorem,speed-up theorem,False,0.4
+873,What theorem was implicated by Manuel Blum's axioms?,speed - up theorem,speed-up theorem,False,0.4
+874,What theorem was implicated by Manuel Blum's axioms?,speed - up theorem,speed-up theorem,False,0.4
+875,What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?,""" reducibility among combinatorial problems","""Reducibility Among Combinatorial Problems""",True,1.0
+876,What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?,""" reducibility among combinatorial problems",Reducibility Among Combinatorial Problems,True,1.0
+877,What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?,""" reducibility among combinatorial problems","""Reducibility Among Combinatorial Problems""",True,1.0
+878,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",21,21,True,1.0
+879,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",21,21,True,1.0
+880,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",21,21,True,1.0
+881,What is Southern California often abbreviated as?,socal,SoCal,True,1.0
+882,What is Southern California often abbreviated as?,socal,SoCal,True,1.0
+883,What is Southern California often abbreviated as?,socal,SoCal,True,1.0
+884,"Despite being traditionall described as ""eight counties"", how many counties does this region actually have?",10,10 counties,False,0.67
+885,"Despite being traditionall described as ""eight counties"", how many counties does this region actually have?",10,10,True,1.0
+886,"Despite being traditionall described as ""eight counties"", how many counties does this region actually have?",10,10,True,1.0
+887,What is a major importance of Southern California in relation to California and the United States?,economic center,economic center,True,1.0
+888,What is a major importance of Southern California in relation to California and the United States?,economic center,major economic center,False,0.8
+889,What is a major importance of Southern California in relation to California and the United States?,economic center,economic center,True,1.0
+890,"What are the ties that best described what the ""eight counties"" are based on?",demographics and economic,demographics and economic ties,False,0.86
+891,"What are the ties that best described what the ""eight counties"" are based on?",demographics and economic,economic,False,0.5
+892,"What are the ties that best described what the ""eight counties"" are based on?",demographics and economic,demographics and economic,True,1.0
+893,The reasons for the las two counties to be added are based on what?,historical political divisions,historical political divisions,True,1.0
+894,The reasons for the las two counties to be added are based on what?,historical political divisions,historical political divisions,True,1.0
+895,The reasons for the las two counties to be added are based on what?,historical political divisions,historical political divisions,True,1.0
+896,What is the name of the region that is not defined by the eight or 10 county definitions?,greater southern california megaregion,Southern California Megaregion,False,0.86
+897,What is the name of the region that is not defined by the eight or 10 county definitions?,greater southern california megaregion,the greater Southern California Megaregion,True,1.0
+898,What is the name of the region that is not defined by the eight or 10 county definitions?,greater southern california megaregion,Southern California Megaregion,False,0.86
+899,How many megaregions are there in the United States?,11,11,True,1.0
+900,How many megaregions are there in the United States?,11,11,True,1.0
+901,How many megaregions are there in the United States?,11,11,True,1.0
+902,What is the name of the state that the megaregion expands to in the east?,nevada,Nevada,True,1.0
+903,What is the name of the state that the megaregion expands to in the east?,nevada,Nevada,True,1.0
+904,What is the name of the state that the megaregion expands to in the east?,nevada,Nevada,True,1.0
+905,Which border does the megaregion extend over?,mexican border,Mexican,False,0.67
+906,Which border does the megaregion extend over?,mexican border,Mexican,False,0.67
+907,Which border does the megaregion extend over?,mexican border,Mexican,False,0.67
+908,What is the name of the area past the border that the megaregion extends into?,tijuana,Tijuana,True,1.0
+909,What is the name of the area past the border that the megaregion extends into?,tijuana,Tijuana,True,1.0
+910,What is the name of the area past the border that the megaregion extends into?,tijuana,Tijuana,True,1.0
+911,Which coastline does Southern California touch?,pacific coast,Pacific,False,0.67
+912,Which coastline does Southern California touch?,pacific coast,Pacific,False,0.67
+913,Which coastline does Southern California touch?,pacific coast,Pacific,False,0.67
+914,How many metropolitan areas does Southern California's population encompass?,seven,seven,True,1.0
+915,How many metropolitan areas does Southern California's population encompass?,seven,seven,True,1.0
+916,How many metropolitan areas does Southern California's population encompass?,seven,seven,True,1.0
+917,How many inhabitants does the Los Angeles area contain?,over 12 million,12 million,False,0.8
+918,How many inhabitants does the Los Angeles area contain?,over 12 million,over 12 million inhabitants,False,0.86
+919,How many inhabitants does the Los Angeles area contain?,over 12 million,12 million,False,0.8
+920,Which of the three heavily populated areas has the least number of inhabitants?,san diego area,San Diego,False,0.8
+921,Which of the three heavily populated areas has the least number of inhabitants?,san diego area,the San Diego area,True,1.0
+922,Which of the three heavily populated areas has the least number of inhabitants?,san diego area,San Diego,False,0.8
+923,How many people does the Greater Los Angeles Area have?,17 . 5 million,17.5 million,False,0.4
+924,How many people does the Greater Los Angeles Area have?,17 . 5 million,over 17.5 million,False,0.33
+925,How many people does the Greater Los Angeles Area have?,17 . 5 million,17.5 million,False,0.4
+926,What is the name of the water body that is found to the east?,colorado river,Colorado River,True,1.0
+927,What is the name of the water body that is found to the east?,colorado river,the Colorado River,True,1.0
+928,What is the name of the water body that is found to the east?,colorado river,Colorado River,True,1.0
+929,What is the name of the desert on the border of Arizona?,colorado desert,Colorado Desert,True,1.0
+930,What is the name of the desert on the border of Arizona?,colorado desert,the Colorado Desert,True,1.0
+931,What is the name of the desert on the border of Arizona?,colorado desert,Colorado Desert,True,1.0
+932,What is the name of the desert near the border of Nevada?,mojave desert,Mojave Desert,True,1.0
+933,What is the name of the desert near the border of Nevada?,mojave desert,the Mojave Desert,True,1.0
+934,What is the name of the desert near the border of Nevada?,mojave desert,Mojave Desert,True,1.0
+935,What is the name of the border to the south?,mexico – united states border,Mexico–United States border,False,0.5
+936,What is the name of the border to the south?,mexico – united states border,the Mexico–United States border,False,0.5
+937,What is the name of the border to the south?,mexico – united states border,Mexico–United States border,False,0.5
+938,The cities of Los Angeles and San Diego are a part of which state?,southern california,California,False,0.67
+939,The cities of Los Angeles and San Diego are a part of which state?,southern california,California,False,0.67
+940,The cities of Los Angeles and San Diego are a part of which state?,southern california,California,False,0.67
+941,What is the population of Los Angeles?,"3 , 792 , 621","3,792,621",False,0.0
+942,What is the population of Los Angeles?,"3 , 792 , 621","3,792,621",False,0.0
+943,What is the population of Los Angeles?,"3 , 792 , 621","3,792,621",False,0.0
+944,Which city is the most populous in California?,los angeles,Los Angeles,True,1.0
+945,Which city is the most populous in California?,los angeles,Los Angeles,True,1.0
+946,Which city is the most populous in California?,los angeles,Los Angeles,True,1.0
+947,What is the eighth most populous city in the nation?,san diego,San Diego,True,1.0
+948,What is the eighth most populous city in the nation?,san diego,San Diego,True,1.0
+949,What is the eighth most populous city in the nation?,san diego,San Diego,True,1.0
+950,In which cardinal direction from Los Angeles is San Diego?,south,south,True,1.0
+951,In which cardinal direction from Los Angeles is San Diego?,south,south,True,1.0
+952,"Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?",los angeles,Los Angeles,True,1.0
+953,"Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?",los angeles,Los Angeles,True,1.0
+954,"Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?",los angeles,Riverside,False,0.0
+955,What country are all the counties in?,united states,United States,True,1.0
+956,What country are all the counties in?,united states,the United States,True,1.0
+957,What country are all the counties in?,united states,Los Angeles,False,0.0
+958,"What are Los Angeles, Orange, San Diego, San Bernardino and Riverside?",counties,counties,True,1.0
+959,"What are Los Angeles, Orange, San Diego, San Bernardino and Riverside?",counties,counties,True,1.0
+960,"What are Los Angeles, Orange, San Diego, San Bernardino and Riverside?",counties,five most populous in the state,False,0.0
+961,What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?,top 15,15,False,0.67
+962,What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?,top 15,15,False,0.67
+963,What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?,top 15,Riverside,False,0.0
+964,What is the smallest geographical region discussed?,Not Found,counties,False,0.0
+965,What is the smallest geographical region discussed?,Not Found,Riverside,False,0.0
+966,What is the name given to the district that is associated with the motion picture industry?,hollywood,Hollywood,True,1.0
+967,What is the name given to the district that is associated with the motion picture industry?,hollywood,Hollywood,True,1.0
+968,What is the name given to the district that is associated with the motion picture industry?,hollywood,Hollywood,True,1.0
+969,Which city does the Hollywood district belong to?,los angeles,Los Angeles,True,1.0
+970,Which city does the Hollywood district belong to?,los angeles,Los Angeles,True,1.0
+971,Which city does the Hollywood district belong to?,los angeles,Los Angeles,True,1.0
+972,Which company owns ABC?,walt disney company,The Walt Disney Company,True,1.0
+973,Which company owns ABC?,walt disney company,The Walt Disney Company,True,1.0
+974,Which company owns ABC?,walt disney company,The Walt Disney Company,True,1.0
+975,"Other than the motion picture and television industry, what other major industry is centered in Los Angeles?",music,music,True,1.0
+976,"Other than the motion picture and television industry, what other major industry is centered in Los Angeles?",music,major record companies,False,0.0
+977,"Other than Universal and Warner Brothers, what other company runs a major record company?",sony,Sony,True,1.0
+978,"Other than Universal and Warner Brothers, what other company runs a major record company?",sony,Sony,True,1.0
+979,"Other than Universal and Warner Brothers, what other company runs a major record company?",sony,Sony,True,1.0
+980,"Other than surf, what other culture is southern California home to?",skateboard,skateboard,True,1.0
+981,"Other than surf, what other culture is southern California home to?",skateboard,skateboard,True,1.0
+982,"Other than surf, what other culture is southern California home to?",skateboard,skateboard,True,1.0
+983,What is the name of the professional skateboarder that lives in southern California?,tony hawk,Tony Hawk,True,1.0
+984,What is the name of the professional skateboarder that lives in southern California?,tony hawk,Tony Hawk,True,1.0
+985,What is the name of the professional skateboarder that lives in southern California?,tony hawk,Tony Hawk,True,1.0
+986,What famous snowbaorder lives in southern California?,shaun white,Shaun White,True,1.0
+987,What famous snowbaorder lives in southern California?,shaun white,Shaun White,True,1.0
+988,What famous snowbaorder lives in southern California?,shaun white,Shaun White,True,1.0
+989,Southern California is second to which island in terms of famous serf breaks?,oahu,Oahu,True,1.0
+990,Southern California is second to which island in terms of famous serf breaks?,oahu,Oahu,True,1.0
+991,Southern California is second to which island in terms of famous serf breaks?,oahu,Oahu,True,1.0
+992,What is the shortened name of the annual yacht race that takes place?,"transpacific yacht race , or transpac",Transpac,False,0.33
+993,What is the shortened name of the annual yacht race that takes place?,"transpacific yacht race , or transpac",Transpac,False,0.33
+994,What is the shortened name of the annual yacht race that takes place?,"transpacific yacht race , or transpac",Transpac,False,0.33
+995,What is the name of the desert city?,palm springs,Palm Springs,True,1.0
+996,What is the name of the desert city?,palm springs,Palm Springs,True,1.0
+997,What is the name of the desert city?,palm springs,Palm Springs,True,1.0
+998,Other than the desert city why do many locals and tourists frequent southern California?,popular beaches,beaches,False,0.67
+999,Other than the desert city why do many locals and tourists frequent southern California?,popular beaches,for its popular beaches,False,0.67
+1000,Other than the desert city why do many locals and tourists frequent southern California?,popular beaches,beaches,False,0.67
+1001,Which region of California is Palm Springs located in?,southern,southern,True,1.0
+1002,Which region of California is Palm Springs located in?,southern,the desert,False,0.0
+1003,Which region of California is Palm Springs located in?,southern,southern,True,1.0
+1004,"Other than for its resort feel, what is Palm Springs popular for?",nearby open spaces,open spaces,False,0.8
+1005,"Other than for its resort feel, what is Palm Springs popular for?",nearby open spaces,nearby open spaces,True,1.0
+1006,"Other than for its resort feel, what is Palm Springs popular for?",nearby open spaces,nearby open spaces,True,1.0
+1007,"Geographically speaking, where is California's north - south midway point in terms of latitude?","37° 9 ' 58 . 23 ""","37° 9' 58.23""",False,0.57
+1008,"Geographically speaking, where is California's north - south midway point in terms of latitude?","37° 9 ' 58 . 23 ""","37° 9' 58.23""",False,0.57
+1009,"Geographically speaking, where is California's north - south midway point in terms of latitude?","37° 9 ' 58 . 23 ""","37° 9' 58.23""",False,0.57
+1010,How many miles south of San Jose is the north - south midway point located?,11,11,True,1.0
+1011,How many miles south of San Jose is the north - south midway point located?,11,11,True,1.0
+1012,How many miles south of San Jose is the north - south midway point located?,11,11,True,1.0
+1013,"The term ""southern"" California usually refers to how many of the southern-most counties of the state?",ten,ten,True,1.0
+1014,"The term ""southern"" California usually refers to how many of the southern-most counties of the state?",ten,ten,True,1.0
+1015,"The term ""southern"" California usually refers to how many of the southern-most counties of the state?",ten,ten,True,1.0
+1016,"Other than Point Conception, what landmark is used in the other definition of southern California?",tehachapi mountains,Tehachapi Mountains,True,1.0
+1017,"Other than Point Conception, what landmark is used in the other definition of southern California?",tehachapi mountains,Tehachapi Mountains,True,1.0
+1018,Point Conception is an example of a landmark among what boundary of southern California?,northern boundary,northern,False,0.67
+1019,Point Conception is an example of a landmark among what boundary of southern California?,northern boundary,the Tehachapi Mountains,False,0.0
+1020,Point Conception is an example of a landmark among what boundary of southern California?,northern boundary,northern,False,0.67
+1021,Which country used to rule California?,mexico,Mexico,True,1.0
+1022,Which country used to rule California?,mexico,Mexico,True,1.0
+1023,Which country used to rule California?,mexico,Mexico,True,1.0
+1024,Los Angeles is in the lower part of what?,alta california,Alta California,True,1.0
+1025,Los Angeles is in the lower part of what?,alta california,Alta California,True,1.0
+1026,Los Angeles is in the lower part of what?,alta california,Alta California,True,1.0
+1027,Which Californio is located in the upper part?,monterey,Monterey,True,1.0
+1028,Which Californio is located in the upper part?,monterey,Monterey,True,1.0
+1029,Which Californio is located in the upper part?,monterey,Monterey,True,1.0
+1030,What was the name of the legislation passed in 1850?,the compromise of 1850,the Missouri Compromise,False,0.4
+1031,What was the name of the legislation passed in 1850?,the compromise of 1850,the Compromise of 1850,True,1.0
+1032,What was the name of the legislation passed in 1850?,the compromise of 1850,Compromise of 1850,True,1.0
+1033,The legislation allowed California to be admitted to the Union as what kind of state?,free,free,True,1.0
+1034,The legislation allowed California to be admitted to the Union as what kind of state?,free,a free state,False,0.67
+1035,The legislation allowed California to be admitted to the Union as what kind of state?,free,free,True,1.0
+1036,"Other than land laws, what else were the Californios dissatisfied with?",inequitable taxes,inequitable taxes,True,1.0
+1037,"Other than land laws, what else were the Californios dissatisfied with?",inequitable taxes,inequitable taxes,True,1.0
+1038,"Other than land laws, what else were the Californios dissatisfied with?",inequitable taxes,inequitable taxes,True,1.0
+1039,What was the name given to the regions in which the pro - slavery southerners lived?,""" cow counties",Cow Counties,True,1.0
+1040,What was the name given to the regions in which the pro - slavery southerners lived?,""" cow counties",Cow Counties,True,1.0
+1041,What was the name given to the regions in which the pro - slavery southerners lived?,""" cow counties",Cow Counties,True,1.0
+1042,How many times did southern California attempt to achieve a separate statehood?,three,three,True,1.0
+1043,How many times did southern California attempt to achieve a separate statehood?,three,three,True,1.0
+1044,How many times did southern California attempt to achieve a separate statehood?,three,three,True,1.0
+1045,What was the percentage of people that voted in favor of the Pico Act of 1859?,75 %,75,True,1.0
+1046,What was the percentage of people that voted in favor of the Pico Act of 1859?,75 %,75%,True,1.0
+1047,What was the percentage of people that voted in favor of the Pico Act of 1859?,75 %,75,True,1.0
+1048,Which Senator was a strong advocate for the Pico Act?,milton latham,Milton Latham,True,1.0
+1049,Which Senator was a strong advocate for the Pico Act?,milton latham,Milton Latham,True,1.0
+1050,Which Senator was a strong advocate for the Pico Act?,milton latham,Milton Latham,True,1.0
+1051,Which newspaper defined southern California?,los angeles times,Los Angeles Times,True,1.0
+1052,Which newspaper defined southern California?,los angeles times,the Los Angeles Times,True,1.0
+1053,Which newspaper defined southern California?,los angeles times,Los Angeles Times,True,1.0
+1054,In which year did the newspaper define southern California?,1900,1900,True,1.0
+1055,In which year did the newspaper define southern California?,1900,1900,True,1.0
+1056,In which year did the newspaper define southern California?,1900,1900,True,1.0
+1057,In which year did the newspaper change its previous definition?,1999,1999,True,1.0
+1058,In which year did the newspaper change its previous definition?,1999,1999,True,1.0
+1059,In which year did the newspaper change its previous definition?,1999,1999,True,1.0
+1060,What was the newer county added to the list?,imperial,Imperial,True,1.0
+1061,What was the newer county added to the list?,imperial,Imperial,True,1.0
+1062,What was the newer county added to the list?,imperial,1999,False,0.0
+1063,How many counties initially made up the definition of southern California?,seven,seven,True,1.0
+1064,How many counties initially made up the definition of southern California?,seven,seven,True,1.0
+1065,How many counties initially made up the definition of southern California?,seven,seven,True,1.0
+1066,Which organizations most commonly divide and promote the state?,regional tourism groups,regional tourism groups,True,1.0
+1067,Which organizations most commonly divide and promote the state?,regional tourism groups,regional tourism groups,True,1.0
+1068,Which organizations most commonly divide and promote the state?,regional tourism groups,AAA Auto Clubs,False,0.0
+1069,"Other than the Automobile Club of Southern California, what other AAA Auto Club chose to simplify the divide?",california state automobile association,California State Automobile Association,True,1.0
+1070,"Other than the Automobile Club of Southern California, what other AAA Auto Club chose to simplify the divide?",california state automobile association,the California State Automobile Association,True,1.0
+1071,"Other than the Automobile Club of Southern California, what other AAA Auto Club chose to simplify the divide?",california state automobile association,California State Automobile Association,True,1.0
+1072,The two AAA clubs divided the state into a northern and southern California as opposed to what point of view?,three - region,three-region,False,0.0
+1073,The two AAA clubs divided the state into a northern and southern California as opposed to what point of view?,three - region,the three-region point of view,False,0.0
+1074,The two AAA clubs divided the state into a northern and southern California as opposed to what point of view?,three - region,three-region,False,0.0
+1075,Which mountain range influenced the split of the regions?,south of the tehachapis,Tehachapis,False,0.5
+1076,Which mountain range influenced the split of the regions?,south of the tehachapis,the Tehachapis,False,0.5
+1077,Which mountain range influenced the split of the regions?,south of the tehachapis,Tehachapis,False,0.5
+1078,"In the definition based off the mountain range, which region would the desert portions of north Los Angeles County be included in?",southern california,southern,False,0.67
+1079,"In the definition based off the mountain range, which region would the desert portions of north Los Angeles County be included in?",southern california,southern California,True,1.0
+1080,"In the definition based off the mountain range, which region would the desert portions of north Los Angeles County be included in?",southern california,southern California,True,1.0
+1081,Where does southern California's megalopolis standard in terms of population nationwide?,third,third,True,1.0
+1082,Where does southern California's megalopolis standard in terms of population nationwide?,third,third,True,1.0
+1083,Where does southern California's megalopolis standard in terms of population nationwide?,third,third,True,1.0
+1084,"Although southern california consts of a heavily developed urban environment, how much of it has been left undeveloped?",vast areas,vast areas,True,1.0
+1085,"Although southern california consts of a heavily developed urban environment, how much of it has been left undeveloped?",vast areas,vast areas,True,1.0
+1086,"Although southern california consts of a heavily developed urban environment, how much of it has been left undeveloped?",vast areas,vast areas,True,1.0
+1087,"Southern Californian communities are well known to be large, spread - out, and what other characteristic?",use of automobiles and highways,suburban,False,0.0
+1088,"Southern Californian communities are well known to be large, spread - out, and what other characteristic?",use of automobiles and highways,suburban,False,0.0
+1089,"Southern Californian communities are well known to be large, spread - out, and what other characteristic?",use of automobiles and highways,suburban communities and use of automobiles and highways,False,0.77
+1090,"Outside of its use of automobiles, what else is southern California famous for using?",highways,highways,True,1.0
+1091,"Outside of its use of automobiles, what else is southern California famous for using?",highways,highways,True,1.0
+1092,What kind of region can be found inside the urban area of southern California?,international metropolitan region,international metropolitan,False,0.8
+1093,What kind of region can be found inside the urban area of southern California?,international metropolitan region,an international metropolitan region,True,1.0
+1094,What kind of region can be found inside the urban area of southern California?,international metropolitan region,international metropolitan,False,0.8
+1095,What is the main gap to continued urbanization?,camp pendleton,Camp Pendleton,True,1.0
+1096,What is the main gap to continued urbanization?,camp pendleton,Camp Pendleton,True,1.0
+1097,What is the main gap to continued urbanization?,camp pendleton,Camp Pendleton,True,1.0
+1098,"Other than the San Diego metropolitan area, what other area are the communities along Interstates 15 and 215 connected with?",inland empire,Inland Empire,True,1.0
+1099,"Other than the San Diego metropolitan area, what other area are the communities along Interstates 15 and 215 connected with?",inland empire,Temecula and Murrieta,False,0.0
+1100,Who considers Los Angeles County to be a separate metropolitan area?,united states census bureau,United States Census Bureau,True,1.0
+1101,Who considers Los Angeles County to be a separate metropolitan area?,united states census bureau,the United States Census Bureau,True,1.0
+1102,Who considers Los Angeles County to be a separate metropolitan area?,united states census bureau,United States Census Bureau,True,1.0
+1103,Other than L.A. which other county do many people commute to?,orange,Orange,True,1.0
+1104,Other than L.A. which other county do many people commute to?,orange,Orange Counties,False,0.67
+1105,Other than L.A. which other county do many people commute to?,orange,Orange,True,1.0
+1106,"Other than the 1980s, in which decade did most of San Bernardino and Riverside Counties develop?",1990s,1990s,True,1.0
+1107,"Other than the 1980s, in which decade did most of San Bernardino and Riverside Counties develop?",1990s,1990s,True,1.0
+1108,"Other than the 1980s, in which decade did most of San Bernardino and Riverside Counties develop?",1990s,1990s,True,1.0
+1109,What kind of climate does southern California maintain?,mediterranean,Mediterranean,True,1.0
+1110,What kind of climate does southern California maintain?,mediterranean,a Mediterranean climate,False,0.67
+1111,What kind of climate does southern California maintain?,mediterranean,Mediterranean,True,1.0
+1112,"Other than many sunny days, what characteristic is typical for the climate in souther California?",infrequent rain,infrequent rain,True,1.0
+1113,"Other than many sunny days, what characteristic is typical for the climate in souther California?",infrequent rain,infrequent rain,True,1.0
+1114,"Other than many sunny days, what characteristic is typical for the climate in souther California?",infrequent rain,infrequent rain,True,1.0
+1115,What is the low end of the temperature range in summer?,90 - 60 ' s,60's,False,0.0
+1116,What is the low end of the temperature range in summer?,90 - 60 ' s,60's,False,0.0
+1117,What is the low end of the temperature range in summer?,90 - 60 ' s,60's,False,0.0
+1118,How frequent is snow in the Southwest of the state?,very rare,very rare,True,1.0
+1119,How frequent is snow in the Southwest of the state?,very rare,very rare,True,1.0
+1120,How frequent is snow in the Southwest of the state?,very rare,very rare,True,1.0
+1121,What is the high end of the temperature range in winter?,70 - 50 ' s,70,False,0.5
+1122,What is the high end of the temperature range in winter?,70 - 50 ' s,70,False,0.5
+1123,What is the high end of the temperature range in winter?,70 - 50 ' s,70,False,0.5
+1124,What term best describes southern California's collection of landscapes?,"geologic , topographic , and natural ecosystem landscapes",varied,False,0.0
+1125,What term best describes southern California's collection of landscapes?,"geologic , topographic , and natural ecosystem landscapes",varied,False,0.0
+1126,What term best describes southern California's collection of landscapes?,"geologic , topographic , and natural ecosystem landscapes",natural ecosystem,False,0.5
+1127,The region spans starting at islands found in which body of water?,pacific ocean,Pacific Ocean,True,1.0
+1128,The region spans starting at islands found in which body of water?,pacific ocean,Pacific Ocean,True,1.0
+1129,The region spans starting at islands found in which body of water?,pacific ocean,Pacific Ocean,True,1.0
+1130,What type of landscapes other than geologic and natural ecosystem landscapes can be found in southern California?,topographic,topographic,True,1.0
+1131,What type of landscapes other than geologic and natural ecosystem landscapes can be found in southern California?,topographic,topographic,True,1.0
+1132,What type of landscapes other than geologic and natural ecosystem landscapes can be found in southern California?,topographic,topographic,True,1.0
+1133,The region spans which mountains other than the Transverse ranges?,peninsular ranges,Peninsular,False,0.67
+1134,The region spans which mountains other than the Transverse ranges?,peninsular ranges,Peninsular Ranges,True,1.0
+1135,The region spans which mountains other than the Transverse ranges?,peninsular ranges,Peninsular Ranges,True,1.0
+1136,The mountain ranges tail off into what kind of geographical formation?,deserts,valleys,False,0.0
+1137,The mountain ranges tail off into what kind of geographical formation?,deserts,valleys,False,0.0
+1138,The mountain ranges tail off into what kind of geographical formation?,deserts,interior valleys,False,0.0
+1139,How many earthquakes does southern California experience in a year?,"10 , 000","10,000",False,0.0
+1140,How many earthquakes does southern California experience in a year?,"10 , 000","10,000",False,0.0
+1141,How many earthquakes does southern California experience in a year?,"10 , 000","10,000",False,0.0
+1142,"Generally speaking, what size are the earthquakes that hit southern California?",small,small,True,1.0
+1143,"Generally speaking, what size are the earthquakes that hit southern California?",small,small,True,1.0
+1144,"Generally speaking, what size are the earthquakes that hit southern California?",small,small,True,1.0
+1145,What magnitude was the 1994 Northridge earthquake?,6 . 7,6.7,False,0.0
+1146,What magnitude was the 1994 Northridge earthquake?,6 . 7,6.7,False,0.0
+1147,What magnitude was the 1994 Northridge earthquake?,6 . 7,6.7,False,0.0
+1148,What kind of destruction did the 1994 earthquake cause the most of in US history?,property damage,property damage,True,1.0
+1149,What kind of destruction did the 1994 earthquake cause the most of in US history?,property damage,property damage,True,1.0
+1150,How much was the 1994 earthquake estimated to have cost?,over $ 20 billion,$20 billion,False,0.8
+1151,How much was the 1994 earthquake estimated to have cost?,over $ 20 billion,over $20 billion,True,1.0
+1152,How much was the 1994 earthquake estimated to have cost?,over $ 20 billion,over $20 billion,True,1.0
+1153,Which fault can produce a magnitude earthquake of 8.0?,san andreas fault,San Andreas,False,0.8
+1154,Which fault can produce a magnitude earthquake of 8.0?,san andreas fault,the San Andreas Fault,True,1.0
+1155,Which fault can produce a magnitude earthquake of 8.0?,san andreas fault,San Andreas Fault,True,1.0
+1156,What magnitude of earthquake can many faults produce?,6 . 7 +,6.7,False,0.0
+1157,What magnitude of earthquake can many faults produce?,6 . 7 +,6.7+,False,0.0
+1158,What magnitude of earthquake can many faults produce?,6 . 7 +,6.7+,False,0.0
+1159,"Other than the San Jacinto Fault, and the Elsinore Fault, name one other fault.",puente hills fault,Puente Hills,False,0.8
+1160,"Other than the San Jacinto Fault, and the Elsinore Fault, name one other fault.",puente hills fault,the Puente Hills Fault,True,1.0
+1161,"Other than the San Jacinto Fault, and the Elsinore Fault, name one other fault.",puente hills fault,Puente Hills Fault,True,1.0
+1162,Which organization released a California Earthquake forecast?,the usgs,USGS,True,1.0
+1163,Which organization released a California Earthquake forecast?,the usgs,The USGS,True,1.0
+1164,Which organization released a California Earthquake forecast?,the usgs,USGS,True,1.0
+1165,The earthquake forecast models what features of earthquakes in California?,earthquake occurrence,occurrence,False,0.67
+1166,The earthquake forecast models what features of earthquakes in California?,earthquake occurrence,occurrence,False,0.67
+1167,The earthquake forecast models what features of earthquakes in California?,earthquake occurrence,occurrence,False,0.67
+1168,"Southern California's distinctive regions are divided culturally, politically and what other trait?",economically,economically,True,1.0
+1169,"Southern California's distinctive regions are divided culturally, politically and what other trait?",economically,economically,True,1.0
+1170,"Southern California's distinctive regions are divided culturally, politically and what other trait?",economically,economically,True,1.0
+1171,"Outside of national recognition, what other kind of recognition do some of the cities get?",global,global,True,1.0
+1172,"Outside of national recognition, what other kind of recognition do some of the cities get?",global,global,True,1.0
+1173,"Outside of national recognition, what other kind of recognition do some of the cities get?",global,global,True,1.0
+1174,Cities that anchor the regions are often the hub for what kind of activity?,economic,economic,True,1.0
+1175,Cities that anchor the regions are often the hub for what kind of activity?,economic,economic,True,1.0
+1176,Cities that anchor the regions are often the hub for what kind of activity?,economic,economic activity,False,0.67
+1177,"Southern California had a population of 22,680,010 according to the census from which year?",2010,2010,True,1.0
+1178,"Southern California had a population of 22,680,010 according to the census from which year?",2010,2010,True,1.0
+1179,"Southern California had a population of 22,680,010 according to the census from which year?",2010,2010,True,1.0
+1180,What does southern California have a reputation for?,high growth rates,high growth rates,True,1.0
+1181,What does southern California have a reputation for?,high growth rates,high growth rates,True,1.0
+1182,What does southern California have a reputation for?,high growth rates,high growth rates,True,1.0
+1183,What is the state average growth rate?,10 . 0 %,10.0%,False,0.0
+1184,What is the state average growth rate?,10 . 0 %,10.0%,False,0.0
+1185,What is the state average growth rate?,10 . 0 %,10.0%,False,0.0
+1186,What kind of economy did northern California start to grow in the 2000s?,tech - oriented,tech-oriented,False,0.0
+1187,What kind of economy did northern California start to grow in the 2000s?,tech - oriented,tech-oriented,False,0.0
+1188,Which region began to grow and assert itself in the 2000s?,greater sacramento region,Greater Sacramento,False,0.8
+1189,Which region began to grow and assert itself in the 2000s?,greater sacramento region,Greater Sacramento,False,0.8
+1190,Which region began to grow and assert itself in the 2000s?,greater sacramento region,Greater Sacramento,False,0.8
+1191,What is the name associated with the eight areas that make up a part of southern California?,Not Found,Metropolitan Statistical Areas,False,0.0
+1192,What is the name associated with the eight areas that make up a part of southern California?,Not Found,Metropolitan Statistical Areas,False,0.0
+1193,What is the name associated with the eight areas that make up a part of southern California?,Not Found,Metropolitan Statistical Areas,False,0.0
+1194,How many extended metropolitan areas are there?,two,two,True,1.0
+1195,How many extended metropolitan areas are there?,two,two,True,1.0
+1196,How many extended metropolitan areas are there?,two,two,True,1.0
+1197,Each of the extended metropolitan areas has a population that exceeds what number?,five million,five million,True,1.0
+1198,Each of the extended metropolitan areas has a population that exceeds what number?,five million,five million,True,1.0
+1199,Each of the extended metropolitan areas has a population that exceeds what number?,five million,five million,True,1.0
+1200,What does the El Centro metropolitan area and San Diego-Carslbad-San Marcos metropolitan area form?,the southern border region,Southern Border Region,True,1.0
+1201,What does the El Centro metropolitan area and San Diego-Carslbad-San Marcos metropolitan area form?,the southern border region,the Southern Border Region,True,1.0
+1202,What does the El Centro metropolitan area and San Diego-Carslbad-San Marcos metropolitan area form?,the southern border region,Southern Border Region,True,1.0
+1203,What is the population of the Greater Los Angeles Area?,"17 , 786 , 419","17,786,419",False,0.0
+1204,What is the population of the Greater Los Angeles Area?,"17 , 786 , 419","17,786,419",False,0.0
+1205,What is the population of the Greater Los Angeles Area?,"17 , 786 , 419","17,786,419",False,0.0
+1206,What is the largest city in all of California?,los angeles,Los Angeles,True,1.0
+1207,What is the largest city in all of California?,los angeles,Los Angeles,True,1.0
+1208,What is the largest city in all of California?,los angeles,Los Angeles,True,1.0
+1209,What is the population of the second largest city in California?,san diego ( at 1 . 3 million,1.3 million,False,0.25
+1210,What is the population of the second largest city in California?,san diego ( at 1 . 3 million,1.3 million,False,0.25
+1211,What is the population of the second largest city in California?,san diego ( at 1 . 3 million,San Diego,False,0.5
+1212,"How many cities in southern California have over 200,000 residents?",34,twelve,False,0.0
+1213,"How many cities in southern California have over 200,000 residents?",34,twelve,False,0.0
+1214,"How many cities in southern California have over 200,000 residents?",34,twelve,False,0.0
+1215,There are 34 cities in southern California that have a population exceeding what number?,"100 , 000","100,000",False,0.0
+1216,There are 34 cities in southern California that have a population exceeding what number?,"100 , 000","100,000",False,0.0
+1217,There are 34 cities in southern California that have a population exceeding what number?,"100 , 000","100,000",False,0.0
+1218,"Other than San Bernardino, which other developed southern Californian city is not in close proximity to the coast?",riverside,Riverside,True,1.0
+1219,"Other than San Bernardino, which other developed southern Californian city is not in close proximity to the coast?",riverside,Riverside,True,1.0
+1220,"Other than San Bernardino, which other developed southern Californian city is not in close proximity to the coast?",riverside,Riverside,True,1.0
+1221,What resource is the economy of southern California depedent on?,petroleum,petroleum,True,1.0
+1222,What resource is the economy of southern California depedent on?,petroleum,petroleum,True,1.0
+1223,What resource is the economy of southern California depedent on?,petroleum,petroleum,True,1.0
+1224,Southern California is most famous for tourism and what notably named district?,hollywood,Hollywood,True,1.0
+1225,Southern California is most famous for tourism and what notably named district?,hollywood,Hollywood,True,1.0
+1226,Southern California is most famous for tourism and what notably named district?,hollywood,Hollywood,True,1.0
+1227,The region was a leader in what event between 2001 - 2007?,housing bubble,the housing bubble,True,1.0
+1228,The region was a leader in what event between 2001 - 2007?,housing bubble,the housing bubble,True,1.0
+1229,Southern California's economy can be described as one of the largest in the United States and what other characteristic?,diverse,diverse,True,1.0
+1230,Southern California's economy can be described as one of the largest in the United States and what other characteristic?,diverse,diverse,True,1.0
+1231,Southern California's economy can be described as one of the largest in the United States and what other characteristic?,diverse,diverse,True,1.0
+1232,What was the effect of the housing crash on the region?,heavily impacted,heavily impacted,True,1.0
+1233,What was the effect of the housing crash on the region?,heavily impacted,heavily impacted,True,1.0
+1234,"Motion pictures, petroleum and aircraft manufacturing have been major industries since which decade?",1920s,1920s,True,1.0
+1235,"Motion pictures, petroleum and aircraft manufacturing have been major industries since which decade?",1920s,1920s,True,1.0
+1236,"Motion pictures, petroleum and aircraft manufacturing have been major industries since which decade?",1920s,1920s,True,1.0
+1237,What characteristic best describes the agricultural regions that could be found?,richest,richest,True,1.0
+1238,What characteristic best describes the agricultural regions that could be found?,richest,rich,False,0.0
+1239,What characteristic best describes the agricultural regions that could be found?,richest,one of the richest,False,0.5
+1240,Which type of livestock was the argricultural region known for?,cattle,cattle,True,1.0
+1241,Which type of livestock was the argricultural region known for?,cattle,cattle,True,1.0
+1242,Which type of livestock was the argricultural region known for?,cattle,cattle,True,1.0
+1243,"Outside of livestock, what else was considered a major industry in the agriculture regions?",citrus,citrus,True,1.0
+1244,"Outside of livestock, what else was considered a major industry in the agriculture regions?",citrus,citrus,True,1.0
+1245,"Outside of livestock, what else was considered a major industry in the agriculture regions?",citrus,citrus,True,1.0
+1246,What industry has managed to survive major military spending cutbacks?,aerospace,aerospace,True,1.0
+1247,What industry has managed to survive major military spending cutbacks?,aerospace,aerospace,True,1.0
+1248,What industry has managed to survive major military spending cutbacks?,aerospace,aerospace,True,1.0
+1249,What type of district is southern California home to many of?,major business districts,business,False,0.5
+1250,What type of district is southern California home to many of?,major business districts,major business,False,0.8
+1251,What type of district is southern California home to many of?,major business districts,major business,False,0.8
+1252,What does CBD stand for?,central business districts,Central business districts,True,1.0
+1253,What does CBD stand for?,central business districts,Central business districts,True,1.0
+1254,What does CBD stand for?,central business districts,Central business districts,True,1.0
+1255,"What is the only district in the CBD to not have ""downtown"" in it's name?",san diego,South Coast Metro,False,0.0
+1256,"What is the only district in the CBD to not have ""downtown"" in it's name?",san diego,South Coast Metro,False,0.0
+1257,"What is the only district in the CBD to not have ""downtown"" in it's name?",san diego,South Coast Metro,False,0.0
+1258,Downtown Burbank is an example of what kind of district?,business,business,True,1.0
+1259,Downtown Burbank is an example of what kind of district?,business,major business districts,False,0.5
+1260,Downtown Burbank is an example of what kind of district?,business,major business,False,0.67
+1261,Downtown Santa Monica and Downtown Glendale are a part of which area?,los angeles,Los Angeles Area,False,0.8
+1262,Downtown Santa Monica and Downtown Glendale are a part of which area?,los angeles,the Los Angeles Area,False,0.8
+1263,Downtown Santa Monica and Downtown Glendale are a part of which area?,los angeles,major business,False,0.0
+1264,Warner Center is located in which area?,san fernando valley,San Fernando Valley,True,1.0
+1265,Warner Center is located in which area?,san fernando valley,the San Fernando Valley,True,1.0
+1266,Warner Center is located in which area?,san fernando valley,San Fernando Valley,True,1.0
+1267,Century City is an example of a district that belongs to which city?,Not Found,Los Angeles,False,0.0
+1268,Century City is an example of a district that belongs to which city?,Not Found,Los Angeles,False,0.0
+1269,Century City is an example of a district that belongs to which city?,Not Found,Los Angeles,False,0.0
+1270,The Sand Bernardino - Riverside area maintains what kind of district?,business,business,True,1.0
+1271,The Sand Bernardino - Riverside area maintains what kind of district?,business,business districts,False,0.67
+1272,The Sand Bernardino - Riverside area maintains what kind of district?,business,business,True,1.0
+1273,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",riverside,Riverside,True,1.0
+1274,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",riverside,Riverside,True,1.0
+1275,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",riverside,Downtown Riverside,False,0.67
+1276,"Other than Downtown San Bernardino, and University Town, what is the name of another business district in the San Bernardino-Riverside area?",hospitality business / financial centre,Hospitality Business/Financial Centre,False,0.57
+1277,"Other than Downtown San Bernardino, and University Town, what is the name of another business district in the San Bernardino-Riverside area?",hospitality business / financial centre,Downtown Riverside,False,0.0
+1278,"Other than Downtown San Bernardino, and University Town, what is the name of another business district in the San Bernardino-Riverside area?",hospitality business / financial centre,Hospitality Business/Financial Centre,False,0.57
+1279,Which county is developing its business center?,orange county,Orange,False,0.67
+1280,Which county is developing its business center?,orange county,Orange County,True,1.0
+1281,Which county is developing its business center?,orange county,Orange County,True,1.0
+1282,Where are international corporations headquartered?,"university of california , irvine","University of California, Irvine",True,1.0
+1283,Where are international corporations headquartered?,"university of california , irvine","the University of California, Irvine",True,1.0
+1284,Where are international corporations headquartered?,"university of california , irvine",University of California,False,0.86
+1285,Jamboree Business Parks belongs to which business center?,west irvine,West Irvine,True,1.0
+1286,Jamboree Business Parks belongs to which business center?,west irvine,West Irvine,True,1.0
+1287,Jamboree Business Parks belongs to which business center?,west irvine,West Irvine,True,1.0
+1288,What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?,south coast metro,South Coast Metro,True,1.0
+1289,What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?,south coast metro,the South Coast Metro,True,1.0
+1290,What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?,south coast metro,South Coast Metro,True,1.0
+1291,At what rate is Orange County developing its business centers?,rapidly,rapidly,True,1.0
+1292,At what rate is Orange County developing its business centers?,rapidly,rapidly,True,1.0
+1293,At what rate is Orange County developing its business centers?,rapidly,rapidly,True,1.0
+1294,What is the central business district of San Diego?,downtown san diego,Downtown San Diego,True,1.0
+1295,What is the central business district of San Diego?,downtown san diego,Downtown San Diego,True,1.0
+1296,What is the central business district of San Diego?,downtown san diego,Downtown,False,0.5
+1297,"Other than its main central  business district, where are the majority of San Diego's business districts located?",northern san diego and some within north county regions,Northern San Diego,False,0.5
+1298,"Other than its main central  business district, where are the majority of San Diego's business districts located?",northern san diego and some within north county regions,Northern San Diego,False,0.5
+1299,"Other than its main central  business district, where are the majority of San Diego's business districts located?",northern san diego and some within north county regions,Northern San Diego,False,0.5
+1300,"Outside of Northern San Diego, which other region contains business districts?",north county,North County,True,1.0
+1301,"Outside of Northern San Diego, which other region contains business districts?",north county,North County,True,1.0
+1302,"Outside of Northern San Diego, which other region contains business districts?",north county,North County regions,False,0.8
+1303,University City is an example of a business district located in which city?,Not Found,San Diego,False,0.0
+1304,University City is an example of a business district located in which city?,Not Found,San Diego,False,0.0
+1305,University City is an example of a business district located in which city?,Not Found,San Diego,False,0.0
+1306,What is the second busiest airport in the United States?,los angeles international airport,Los Angeles International Airport,True,1.0
+1307,What is the second busiest airport in the United States?,los angeles international airport,Los Angeles International Airport,True,1.0
+1308,What is the second busiest airport in the United States?,los angeles international airport,Los Angeles International Airport,True,1.0
+1309,What is the metric they use to determine how busy airports are?,passenger volume,passenger volume,True,1.0
+1310,What is the metric they use to determine how busy airports are?,passenger volume,passenger volume,True,1.0
+1311,What is the metric they use to determine how busy airports are?,passenger volume,passenger volume,True,1.0
+1312,What ranking in terms of busiest airports from international passenger volume is the Los Angeles International Airport?,third,third,True,1.0
+1313,What ranking in terms of busiest airports from international passenger volume is the Los Angeles International Airport?,third,third,True,1.0
+1314,What ranking in terms of busiest airports from international passenger volume is the Los Angeles International Airport?,third,third,True,1.0
+1315,Which airport is home to the busiest single runway in the world?,san diego international airport,San Diego International Airport,True,1.0
+1316,Which airport is home to the busiest single runway in the world?,san diego international airport,San Diego International Airport,True,1.0
+1317,Which airport is home to the busiest single runway in the world?,san diego international airport,San Diego International Airport,True,1.0
+1318,What is the world's busiest general aviation airport?,van nuys airport,Van Nuys Airport,True,1.0
+1319,What is the world's busiest general aviation airport?,van nuys airport,Van Nuys Airport,True,1.0
+1320,What is the world's busiest general aviation airport?,van nuys airport,Van Nuys Airport,True,1.0
+1321,What is the name of the commuter rail system?,metrolink,Metrolink,True,1.0
+1322,What is the name of the commuter rail system?,metrolink,Metrolink,True,1.0
+1323,What is the name of the commuter rail system?,metrolink,Metrolink,True,1.0
+1324,How many lines does the commuter rail system have?,seven,seven,True,1.0
+1325,How many lines does the commuter rail system have?,seven,seven,True,1.0
+1326,How many lines does the commuter rail system have?,seven,seven,True,1.0
+1327,How many lines run out of Downtown Los Angeles?,six,Six,True,1.0
+1328,How many lines run out of Downtown Los Angeles?,six,Six,True,1.0
+1329,How many lines run out of Downtown Los Angeles?,six,Six,True,1.0
+1330,"A single line connects San Bernardino, Riverside and what other county?",orange,Orange,True,1.0
+1331,"A single line connects San Bernardino, Riverside and what other county?",orange,Orange,True,1.0
+1332,"A single line connects San Bernardino, Riverside and what other county?",orange,Orange,True,1.0
+1333,What is the United States busiest commercial port?,port of los angeles,Port of Los Angeles,True,1.0
+1334,What is the United States busiest commercial port?,port of los angeles,the Port of Los Angeles,True,1.0
+1335,What is the United States busiest commercial port?,port of los angeles,Port of Los Angeles,True,1.0
+1336,What is the second busiest container port in the United States?,port of long beach,Port of San Diego,False,0.5
+1337,What is the second busiest container port in the United States?,port of long beach,Port of Long Beach,True,1.0
+1338,What is the second busiest container port in the United States?,port of long beach,Port of Long Beach,True,1.0
+1339,The Port of Long Beach belongs to which region of California?,southern,Southern,True,1.0
+1340,The Port of Long Beach belongs to which region of California?,southern,Southern California,False,0.67
+1341,The Port of Long Beach belongs to which region of California?,southern,Southern,True,1.0
+1342,What is the moniker that is being used to describe the region's diversified technology?,the tech coast,The Tech Coast,True,1.0
+1343,What is the moniker that is being used to describe the region's diversified technology?,the tech coast,The Tech Coast,True,1.0
+1344,What is the moniker that is being used to describe the region's diversified technology?,the tech coast,Tech Coast,True,1.0
+1345,What kind of universities is the region famous for?,research universities,research,False,0.67
+1346,What kind of universities is the region famous for?,research universities,research,False,0.67
+1347,What kind of universities is the region famous for?,research universities,research,False,0.67
+1348,What kind of university is the California Institute of Technology?,private,private,True,1.0
+1349,What kind of university is the California Institute of Technology?,private,private,True,1.0
+1350,What kind of university is the California Institute of Technology?,private,private,True,1.0
+1351,How many campuses does the University of California have?,5,5,True,1.0
+1352,How many campuses does the University of California have?,5,5,True,1.0
+1353,How many campuses does the University of California have?,5,5,True,1.0
+1354,How many campuses does the California State University have?,12,12,True,1.0
+1355,How many campuses does the California State University have?,12,12,True,1.0
+1356,How many campuses does the California State University have?,12,12,True,1.0
+1357,The Los Angeles Rams are an example of what kind of sports team?,nfl,NFL,True,1.0
+1358,The Los Angeles Rams are an example of what kind of sports team?,nfl,Professional,False,0.0
+1359,The Los Angeles Rams are an example of what kind of sports team?,nfl,NFL,True,1.0
+1360,The Los Angeles Clippers are a team belonging to which sport?,nba,NBA,True,1.0
+1361,The Los Angeles Clippers are a team belonging to which sport?,nba,NBA,True,1.0
+1362,The Los Angeles Clippers are a team belonging to which sport?,nba,NBA,True,1.0
+1363,The Los Angeles Angels of Anaheim are from which sport?,mlb,MLB,True,1.0
+1364,The Los Angeles Angels of Anaheim are from which sport?,mlb,MLB,True,1.0
+1365,The Los Angeles Angels of Anaheim are from which sport?,mlb,MLB,True,1.0
+1366,What is the other NHL team aside from the Anaheim Ducks to reside in Southern California?,los angeles kings,Los Angeles Kings,True,1.0
+1367,What is the other NHL team aside from the Anaheim Ducks to reside in Southern California?,los angeles kings,Los Angeles Kings,True,1.0
+1368,What is the other NHL team aside from the Anaheim Ducks to reside in Southern California?,los angeles kings,Los Angeles Kings,True,1.0
+1369,What is the lone MLS team that belongs to southern California?,la galaxy,LA Galaxy,True,1.0
+1370,What is the lone MLS team that belongs to southern California?,la galaxy,LA Galaxy,True,1.0
+1371,What is the lone MLS team that belongs to southern California?,la galaxy,LA Galaxy,True,1.0
+1372,Which team was suspended from the MLS?,chivas usa,Chivas USA,True,1.0
+1373,Which team was suspended from the MLS?,chivas usa,Chivas,False,0.67
+1374,Which team was suspended from the MLS?,chivas usa,Chivas,False,0.67
+1375,How many teams did Los Angeles used to have?,two,two,True,1.0
+1376,How many teams did Los Angeles used to have?,two,two,True,1.0
+1377,How many teams did Los Angeles used to have?,two,two,True,1.0
+1378,Which year resulted in the suspension of one of the two soccer teams?,2014,2014,True,1.0
+1379,Which year resulted in the suspension of one of the two soccer teams?,2014,2014,True,1.0
+1380,Which year resulted in the suspension of one of the two soccer teams?,2014,2014,True,1.0
+1381,What was the name of the stadium that the teams played in?,stubhub center,StubHub Center,True,1.0
+1382,What was the name of the stadium that the teams played in?,stubhub center,the StubHub Center,True,1.0
+1383,What was the name of the stadium that the teams played in?,stubhub center,StubHub Center,True,1.0
+1384,When is the suspended team scheduled to return?,2018,2018,True,1.0
+1385,When is the suspended team scheduled to return?,2018,in 2018,False,0.67
+1386,When is the suspended team scheduled to return?,2018,2018,True,1.0
+1387,What other kind of sport is popular in southern California?,college sports,College,False,0.67
+1388,What other kind of sport is popular in southern California?,college sports,College,False,0.67
+1389,What other kind of sport is popular in southern California?,college sports,College,False,0.67
+1390,The Bruins belong to which college?,ucla,UCLA,True,1.0
+1391,The Bruins belong to which college?,ucla,UCLA,True,1.0
+1392,The Bruins belong to which college?,ucla,UCLA,True,1.0
+1393,What is the name of the team from USC?,trojans,Trojans,True,1.0
+1394,What is the name of the team from USC?,trojans,Trojans,True,1.0
+1395,What is the name of the team from USC?,trojans,Trojans,True,1.0
+1396,Which conference do the teams in southern California play in?,pac - 12 conference,Pac-12,False,0.0
+1397,Which conference do the teams in southern California play in?,pac - 12 conference,the Pac-12,False,0.0
+1398,Which conference do the teams in southern California play in?,pac - 12 conference,Pac-12,False,0.0
+1399,The two listed teams play for which NCAA group?,division i,Division I,True,1.0
+1400,The two listed teams play for which NCAA group?,division i,Division I,True,1.0
+1401,The two listed teams play for which NCAA group?,division i,Division I,True,1.0
+1402,What is a growing sport in southern California?,rugby,Rugby,True,1.0
+1403,What is a growing sport in southern California?,rugby,Rugby,True,1.0
+1404,What is a growing sport in southern California?,rugby,Rugby,True,1.0
+1405,At which level of education is this sport becoming more popular?,high school,high school,True,1.0
+1406,At which level of education is this sport becoming more popular?,high school,high school,True,1.0
+1407,At which level of education is this sport becoming more popular?,high school,high school,True,1.0
+1408,What is rugby rapidly becoming with high schools?,official school sport,an official school sport,True,1.0
+1409,What is rugby rapidly becoming with high schools?,official school sport,an official school,False,0.8
+1410,What is rugby rapidly becoming with high schools?,official school sport,official school sport,True,1.0
+1411,What company was formed by the merger of Sky Television and British Satellite Broadcasting?,bskyb,BSkyB,True,1.0
+1412,What company was formed by the merger of Sky Television and British Satellite Broadcasting?,bskyb,BSkyB,True,1.0
+1413,What company was formed by the merger of Sky Television and British Satellite Broadcasting?,bskyb,BSkyB,True,1.0
+1414,Who is the UK's largest digital subscription television company?,bskyb,BSkyB,True,1.0
+1415,Who is the UK's largest digital subscription television company?,bskyb,BSkyB,True,1.0
+1416,Who is the UK's largest digital subscription television company?,bskyb,BSkyB,True,1.0
+1417,What year did BSkyB acquire Sky Italia?,2014,2014,True,1.0
+1418,What year did BSkyB acquire Sky Italia?,2014,2014,True,1.0
+1419,What year did BSkyB acquire Sky Italia?,2014,2014,True,1.0
+1420,What is the name of the holding company for BSkyB?,sky plc,Sky plc,True,1.0
+1421,What is the name of the holding company for BSkyB?,sky plc,British Sky Broadcasting Group plc,False,0.57
+1422,What is the name of the holding company for BSkyB?,sky plc,British Sky Broadcasting Group plc,False,0.57
+1423,What is the name of the United Kingdom operation for BSkyB?,sky uk limited,Sky UK Limited,True,1.0
+1424,What is the name of the United Kingdom operation for BSkyB?,sky uk limited,Sky UK Limited,True,1.0
+1425,What is the name of the United Kingdom operation for BSkyB?,sky uk limited,Sky UK Limited,True,1.0
+1426,What year was Setanta Sports awarded Primeier Leage rights to broadcast?,2006,2006,True,1.0
+1427,What year was Setanta Sports awarded Primeier Leage rights to broadcast?,2006,2006,True,1.0
+1428,What year was Setanta Sports awarded Primeier Leage rights to broadcast?,2006,2006,True,1.0
+1429,How many of the six total packages available to broadcasters was Setanta awarded?,two,two,True,1.0
+1430,How many of the six total packages available to broadcasters was Setanta awarded?,two,two,True,1.0
+1431,How many of the six total packages available to broadcasters was Setanta awarded?,two,two,True,1.0
+1432,Who purhcased the remaining 4 pacakages available to broadcasters?,sky,Sky,True,1.0
+1433,Who purhcased the remaining 4 pacakages available to broadcasters?,sky,Sky,True,1.0
+1434,Who purhcased the remaining 4 pacakages available to broadcasters?,sky,Sky,True,1.0
+1435,How much did Sky bid to win the 4 broadcast pacakges they bought?,£1 . 3bn,£1.3bn,False,0.0
+1436,How much did Sky bid to win the 4 broadcast pacakges they bought?,£1 . 3bn,£1.3bn,False,0.0
+1437,How much did Sky bid to win the 4 broadcast pacakges they bought?,£1 . 3bn,£4.2bn,False,0.0
+1438,What consortium was BSkyB excluded from?,ondigital consortium,ONdigital,False,0.67
+1439,What consortium was BSkyB excluded from?,ondigital consortium,ONdigital,False,0.67
+1440,What consortium was BSkyB excluded from?,ondigital consortium,ONdigital,False,0.67
+1441,Who did BSkyB team up with because it was not part of the consortium?,"bbc , itv , channel 4 and national grid wireless",Freeview,False,0.0
+1442,Who did BSkyB team up with because it was not part of the consortium?,"bbc , itv , channel 4 and national grid wireless",ITV Digital,False,0.2
+1443,Who did BSkyB team up with because it was not part of the consortium?,"bbc , itv , channel 4 and national grid wireless",ITV Digital,False,0.2
+1444,How many BSkyB channels were available to customers prior to October 2005?,three,three,True,1.0
+1445,How many BSkyB channels were available to customers prior to October 2005?,three,three,True,1.0
+1446,How many BSkyB channels were available to customers prior to October 2005?,three,three,True,1.0
+1447,What channel replaced Sky Travel?,sky three,Sky Three,True,1.0
+1448,What channel replaced Sky Travel?,sky three,Sky Three,True,1.0
+1449,What channel replaced Sky Travel?,sky three,Sky Three,True,1.0
+1450,What was Sky Travel later rebranded as?,pick tv,Pick TV,True,1.0
+1451,What was Sky Travel later rebranded as?,pick tv,Pick TV,True,1.0
+1452,What was Sky Travel later rebranded as?,pick tv,Pick TV,True,1.0
+1453,What service did BSkyB chare additional subscription fees for?,sky +,Sky+ PVR,False,0.67
+1454,What service did BSkyB chare additional subscription fees for?,sky +,Sky+ PVR,False,0.67
+1455,What service did BSkyB chare additional subscription fees for?,sky +,Sky+ PVR,False,0.67
+1456,When did Sky launch a TV advertising campaign target towards women?,september 2007,September 2007,True,1.0
+1457,When did Sky launch a TV advertising campaign target towards women?,september 2007,September 2007,True,1.0
+1458,When did Sky launch a TV advertising campaign target towards women?,september 2007,March 2008,False,0.0
+1459,WHat allows customers to get Sky+ functions if they do not subscribe to BSkyB's channels?,pay a monthly fee,monthly fee,False,0.8
+1460,WHat allows customers to get Sky+ functions if they do not subscribe to BSkyB's channels?,pay a monthly fee,a monthly fee,False,0.8
+1461,WHat allows customers to get Sky+ functions if they do not subscribe to BSkyB's channels?,pay a monthly fee,SkyHD box,False,0.0
+1462,When did BSkyB discontinue the Sky+ Box?,january 2010,January 2010,True,1.0
+1463,When did BSkyB discontinue the Sky+ Box?,january 2010,In January 2010,False,0.8
+1464,When did BSkyB discontinue the Sky+ Box?,january 2010,February 2011,False,0.0
+1465,What replaced the Sky+Box?,sky + hd box,Sky+HD Box,False,0.4
+1466,What replaced the Sky+Box?,sky + hd box,Sky+HD Box,False,0.4
+1467,What replaced the Sky+Box?,sky + hd box,Sky+HD Box,False,0.4
+1468,What is the name of the TV scrambling system BSkyB uses?,videoguard,VideoGuard,True,1.0
+1469,What is the name of the TV scrambling system BSkyB uses?,videoguard,VideoGuard pay-TV,False,0.67
+1470,What is the name of the TV scrambling system BSkyB uses?,videoguard,VideoGuard,True,1.0
+1471,Who is VideoGuard owned by?,nds,NDS,True,1.0
+1472,Who is VideoGuard owned by?,nds,NDS,True,1.0
+1473,Who is VideoGuard owned by?,nds,NDS,True,1.0
+1474,Who is the parent company of NDS?,cisco systems,Cisco Systems,True,1.0
+1475,Who is the parent company of NDS?,cisco systems,Cisco Systems,True,1.0
+1476,Who is the parent company of NDS?,cisco systems,Cisco Systems company,False,0.8
+1477,Who has design authority over all of the digital satellite receivers that are capable of using their service?,bskyb,BSkyB,True,1.0
+1478,Who has design authority over all of the digital satellite receivers that are capable of using their service?,bskyb,BSkyB,True,1.0
+1479,Who has design authority over all of the digital satellite receivers that are capable of using their service?,bskyb,BSkyB,True,1.0
+1480,What is the name brand of the personal video recorder that BSkyB offers?,sky +,Sky+,True,1.0
+1481,What is the name brand of the personal video recorder that BSkyB offers?,sky +,Sky+,True,1.0
+1482,What is the name brand of the personal video recorder that BSkyB offers?,sky +,PVR,False,0.0
+1483,What year did BSkyB and Virgin Media have a dispute over the carriage of Sky Channels on cable TV?,2007,2007,True,1.0
+1484,What year did BSkyB and Virgin Media have a dispute over the carriage of Sky Channels on cable TV?,2007,2007,True,1.0
+1485,What year did BSkyB and Virgin Media have a dispute over the carriage of Sky Channels on cable TV?,2007,2007,True,1.0
+1486,What channels were removed from the network in March of 2007?,basic channels,basic channels,True,1.0
+1487,What channels were removed from the network in March of 2007?,basic channels,the basic channels,True,1.0
+1488,What channels were removed from the network in March of 2007?,basic channels,the basic channels,True,1.0
+1489,What did Virgin Media claim BSkyB did that resulted Virgin not carrying the channels anymore?,substantially increased the asking price,substantially increased the asking price,True,1.0
+1490,What did Virgin Media claim BSkyB did that resulted Virgin not carrying the channels anymore?,substantially increased the asking price,that BSkyB had substantially increased the asking price for the channels,False,0.62
+1491,What did Virgin Media claim BSkyB did that resulted Virgin not carrying the channels anymore?,substantially increased the asking price,increased the asking price,False,0.86
+1492,"What additional srevice did BSkyB offer besides HD channels that they claimed offered ""substantially more value""?",video on demand content,Video On Demand,False,0.86
+1493,"What additional srevice did BSkyB offer besides HD channels that they claimed offered ""substantially more value""?",video on demand content,Video On Demand content,True,1.0
+1494,"What additional srevice did BSkyB offer besides HD channels that they claimed offered ""substantially more value""?",video on demand content,HD channels and Video On Demand,False,0.6
+1495,"What additional srevice did BSkyB offer besides Video on Demand that they claimed offered ""substantially more value""?",hd channels,HD channels,True,1.0
+1496,"What additional srevice did BSkyB offer besides Video on Demand that they claimed offered ""substantially more value""?",hd channels,HD channels,True,1.0
+1497,"What additional srevice did BSkyB offer besides Video on Demand that they claimed offered ""substantially more value""?",hd channels,HD channels,True,1.0
+1498,"when did the English High court find Microsoft's use of the term ""SkyDrive"" infringed on Sky's right?",july 2013,July 2013,True,1.0
+1499,"when did the English High court find Microsoft's use of the term ""SkyDrive"" infringed on Sky's right?",july 2013,In July 2013,False,0.8
+1500,"when did the English High court find Microsoft's use of the term ""SkyDrive"" infringed on Sky's right?",july 2013,July 2013,True,1.0
+1501,What year did BSkyB and Microsoft announce their settlement?,2013,2013,True,1.0
+1502,What year did BSkyB and Microsoft announce their settlement?,2013,2013,True,1.0
+1503,What year did BSkyB and Microsoft announce their settlement?,2013,31 July 2013,False,0.5
+1504,What did Microsoft announce that it would rename Sky Drive to?,onedrive,OneDrive,True,1.0
+1505,What did Microsoft announce that it would rename Sky Drive to?,onedrive,OneDrive,True,1.0
+1506,What did Microsoft announce that it would rename Sky Drive to?,onedrive,OneDrive,True,1.0
+1507,What did Microsoft announce that it would rename Sky Drive Pro to?,onedrive for business,OneDrive for Business,True,1.0
+1508,What did Microsoft announce that it would rename Sky Drive Pro to?,onedrive for business,OneDrive for Business,True,1.0
+1509,What did Microsoft announce that it would rename Sky Drive Pro to?,onedrive for business,OneDrive for Business,True,1.0
+1510,What kind of service is the SkyDrive Service?,cloud storage,cloud storage,True,1.0
+1511,What kind of service is the SkyDrive Service?,cloud storage,cloud storage,True,1.0
+1512,What kind of service is the SkyDrive Service?,cloud storage,cloud storage service,False,0.8
+1513,Who was the chief executive officer when the service began?,sam chisholm,Sam Chisholm,True,1.0
+1514,Who was the chief executive officer when the service began?,sam chisholm,Sam Chisholm,True,1.0
+1515,Who was the chief executive officer when the service began?,sam chisholm,Sam Chisholm and Rupert Murdoch,False,0.57
+1516,Who's satellites would the new free-to-air channels be broadcast from?,astra,Astra,True,1.0
+1517,Who's satellites would the new free-to-air channels be broadcast from?,astra,Astra's,False,0.0
+1518,Who's satellites would the new free-to-air channels be broadcast from?,astra,Astra's satellites,False,0.0
+1519,When did BSkyB end their analogue service?,27 september 2001,27 September 2001,True,1.0
+1520,When did BSkyB end their analogue service?,27 september 2001,27 September 2001,True,1.0
+1521,When did BSkyB end their analogue service?,27 september 2001,September 2001,False,0.8
+1522,What platform caused BSkyB to end their analogue service?,sky digital,Sky Digital,True,1.0
+1523,What platform caused BSkyB to end their analogue service?,sky digital,Sky Digital,True,1.0
+1524,What platform caused BSkyB to end their analogue service?,sky digital,Sky Digital platform,False,0.8
+1525,How many households had BSkyB service in 1994?,3 . 5 million,3.5 million,False,0.4
+1526,How many households had BSkyB service in 1994?,3 . 5 million,3.5 million,False,0.4
+1527,How many households had BSkyB service in 1994?,3 . 5 million,3.5 million,False,0.4
+1528,Sky UK Limited is formerly known by what name?,british sky broadcasting or bskyb,BSkyB,False,0.33
+1529,Sky UK Limited is formerly known by what name?,british sky broadcasting or bskyb,British Sky Broadcasting,False,0.75
+1530,Sky UK Limited is formerly known by what name?,british sky broadcasting or bskyb,British Sky Broadcasting,False,0.75
+1531,What kind of company is Sky UK Limited?,telecommunications,telecommunications,True,1.0
+1532,What kind of company is Sky UK Limited?,telecommunications,telecommunications,True,1.0
+1533,What kind of company is Sky UK Limited?,telecommunications,British telecommunications company,False,0.5
+1534,How many customers does Sky UK Limited have as a pay-TV broadcaster as of 2015?,11 million,11 million,True,1.0
+1535,How many customers does Sky UK Limited have as a pay-TV broadcaster as of 2015?,11 million,11 million,True,1.0
+1536,How many customers does Sky UK Limited have as a pay-TV broadcaster as of 2015?,11 million,11 million customers,False,0.8
+1537,what other digital TV service took Sky UK Limited's most popular spot?,freeview,Freeview,True,1.0
+1538,what other digital TV service took Sky UK Limited's most popular spot?,freeview,Freeview,True,1.0
+1539,what other digital TV service took Sky UK Limited's most popular spot?,freeview,Freeview,True,1.0
+1540,What is the name of Sky Q's broadband router?,sky q hub,Sky Q Hub,True,1.0
+1541,What is the name of Sky Q's broadband router?,sky q hub,Sky Q Hub,True,1.0
+1542,What is the name of Sky Q's broadband router?,sky q hub,Sky Q Hub,True,1.0
+1543,What are the Sky Q mini set top boxes able to connect to?,sky q silver set top boxes,Sky Q Silver set top boxes,True,1.0
+1544,What are the Sky Q mini set top boxes able to connect to?,sky q silver set top boxes,the Sky Q Silver set top boxes,True,1.0
+1545,What are the Sky Q mini set top boxes able to connect to?,sky q silver set top boxes,Sky Q Silver,False,0.67
+1546,What does connecting different Sky Q boxes enable them to do?,share recordings and other media,share recordings,False,0.57
+1547,What does connecting different Sky Q boxes enable them to do?,share recordings and other media,to share recordings and other media,False,0.91
+1548,What does connecting different Sky Q boxes enable them to do?,share recordings and other media,share recordings,False,0.57
+1549,When is Sky going to introduce UHD broadcasts?,later in 2016,2016,False,0.5
+1550,When is Sky going to introduce UHD broadcasts?,later in 2016,later in 2016,True,1.0
+1551,When is Sky going to introduce UHD broadcasts?,later in 2016,2016,False,0.5
+1552,When are the new Sky Q products going to be available?,2016,2016,True,1.0
+1553,When are the new Sky Q products going to be available?,2016,in 2016,False,0.67
+1554,When are the new Sky Q products going to be available?,2016,2016,True,1.0
+1555,What are BSkyB's standard definition broadcasts compliant with?,dvb - compliant mpeg - 2,DVB-compliant MPEG-2,False,0.0
+1556,What are BSkyB's standard definition broadcasts compliant with?,dvb - compliant mpeg - 2,DVB-compliant MPEG-2,False,0.0
+1557,What are BSkyB's standard definition broadcasts compliant with?,dvb - compliant mpeg - 2,MPEG-2,False,0.0
+1558,Sky Movies and Sky Box office also include what optional soundtracks?,dolby digital,Dolby Digital,True,1.0
+1559,Sky Movies and Sky Box office also include what optional soundtracks?,dolby digital,Dolby Digital,True,1.0
+1560,Sky Movies and Sky Box office also include what optional soundtracks?,dolby digital,Dolby Digital,True,1.0
+1561,What is Sky+ HD material broadcast using?,mpeg - 4,MPEG-4,False,0.0
+1562,What is Sky+ HD material broadcast using?,mpeg - 4,MPEG-4,False,0.0
+1563,What is Sky+ HD material broadcast using?,mpeg - 4,MPEG-4,False,0.0
+1564,What is the proprietary system that Sky+HD uses?,opentv,OpenTV,True,1.0
+1565,What is the proprietary system that Sky+HD uses?,opentv,OpenTV,True,1.0
+1566,What is the proprietary system that Sky+HD uses?,opentv,OpenTV,True,1.0
+1567,What does most of the HD material use as a standard?,dvb - s2,DVB-S2,False,0.0
+1568,What does most of the HD material use as a standard?,dvb - s2,DVB-S2,False,0.0
+1569,What does most of the HD material use as a standard?,dvb - s2,DVB-compliant MPEG-2,False,0.0
+1570,When was Sky Digital launched?,1998,1998,True,1.0
+1571,When was Sky Digital launched?,1998,1998,True,1.0
+1572,When was Sky Digital launched?,1998,1998,True,1.0
+1573,What satellite was used when Sky digital was launched?,astra 2a,Astra 2A,True,1.0
+1574,What satellite was used when Sky digital was launched?,astra 2a,the Astra 2A,True,1.0
+1575,What satellite was used when Sky digital was launched?,astra 2a,Astra 2A,True,1.0
+1576,What satellite enabled Sky Digital to launch an all new digital service?,eurobird 1,Eutelsat's Eurobird 1,False,0.8
+1577,What satellite enabled Sky Digital to launch an all new digital service?,eurobird 1,Eutelsat's Eurobird 1,False,0.8
+1578,What satellite enabled Sky Digital to launch an all new digital service?,eurobird 1,Eutelsat's Eurobird 1,False,0.8
+1579,How many television and radio channels could the new digital service carry?,hundreds,hundreds,True,1.0
+1580,How many television and radio channels could the new digital service carry?,hundreds,hundreds,True,1.0
+1581,How many television and radio channels could the new digital service carry?,hundreds,hundreds,True,1.0
+1582,What is the position of the satellite that allowed sky to broadcast channels almost elclusively for the United Kingdom?,28 . 5°e,28.5°E,False,0.0
+1583,What is the position of the satellite that allowed sky to broadcast channels almost elclusively for the United Kingdom?,28 . 5°e,28.5°E,False,0.0
+1584,What is the position of the satellite that allowed sky to broadcast channels almost elclusively for the United Kingdom?,28 . 5°e,28.5°E,False,0.0
+1585,When did BSkyB launch it's HDTV service?,22 may 2006,22 May 2006,True,1.0
+1586,When did BSkyB launch it's HDTV service?,22 may 2006,on 22 May 2006,False,0.86
+1587,When did BSkyB launch it's HDTV service?,22 may 2006,22 May 2006,True,1.0
+1588,How many people were registered to receive the HD service prior to launch?,"40 , 000","40,000",False,0.0
+1589,How many people were registered to receive the HD service prior to launch?,"40 , 000","40,000",False,0.0
+1590,How many people were registered to receive the HD service prior to launch?,"40 , 000","40,000",False,0.0
+1591,What was the name of the set top box manufacturer that BSkyB was having issues with?,thomson,Thomson,True,1.0
+1592,What was the name of the set top box manufacturer that BSkyB was having issues with?,thomson,Thomson,True,1.0
+1593,What was the name of the set top box manufacturer that BSkyB was having issues with?,thomson,STB,False,0.0
+1594,What was the number of customers that the BBC  reported had yet to receive the service due to failed deliveries?,"17 , 000","17,000",False,0.0
+1595,What was the number of customers that the BBC  reported had yet to receive the service due to failed deliveries?,"17 , 000","17,000",False,0.0
+1596,What was the number of customers that the BBC  reported had yet to receive the service due to failed deliveries?,"17 , 000","17,000",False,0.0
+1597,What was the total number of homes Sky announced that had Sky+HD in March of 2012?,"4 , 222 , 000","4,222,000",False,0.0
+1598,What was the total number of homes Sky announced that had Sky+HD in March of 2012?,"4 , 222 , 000","4,222,000",False,0.0
+1599,What was the total number of homes Sky announced that had Sky+HD in March of 2012?,"4 , 222 , 000","4,222,000",False,0.0
+1600,When did BSkyB announce it's intention to replace it's free-to-air digital channels?,8 february 2007,8 February 2007,True,1.0
+1601,When did BSkyB announce it's intention to replace it's free-to-air digital channels?,8 february 2007,On 8 February 2007,False,0.86
+1602,When did BSkyB announce it's intention to replace it's free-to-air digital channels?,8 february 2007,8 February 2007,True,1.0
+1603,When did Setanta Sports say it would launch as a subscription service?,march,March,True,1.0
+1604,When did Setanta Sports say it would launch as a subscription service?,march,in March,False,0.67
+1605,When did Setanta Sports say it would launch as a subscription service?,march,March,True,1.0
+1606,What platform was Sentanta Sports planning on launching on?,digital terrestrial,digital terrestrial,True,1.0
+1607,What platform was Sentanta Sports planning on launching on?,digital terrestrial,digital terrestrial,True,1.0
+1608,What platform was Sentanta Sports planning on launching on?,digital terrestrial,digital terrestrial,True,1.0
+1609,What were NTL's services rebranded as?,virgin media,Virgin Media,True,1.0
+1610,What were NTL's services rebranded as?,virgin media,Virgin Media,True,1.0
+1611,What were NTL's services rebranded as?,virgin media,Virgin Media,True,1.0
+1612,What does BSkyB's sport portfolio include?,english premier league football,English Premier League Football,True,1.0
+1613,What does BSkyB's sport portfolio include?,english premier league football,English Premier League Football,True,1.0
+1614,What does BSkyB's sport portfolio include?,english premier league football,"sport (including English Premier League Football), films, entertainment and news",False,0.57
+1615,What are free-to-air encrypted broadcasts known as?,free - to - view,free-to-view,False,0.0
+1616,What are free-to-air encrypted broadcasts known as?,free - to - view,free-to-view,False,0.0
+1617,What are free-to-air encrypted broadcasts known as?,free - to - view,free-to-air,False,0.0
+1618,What do some encrypted broadcasts require to view?,a monthly subscription,monthly subscription,True,1.0
+1619,What do some encrypted broadcasts require to view?,a monthly subscription,a monthly subscription,True,1.0
+1620,What do some encrypted broadcasts require to view?,a monthly subscription,monthly subscription,True,1.0
+1621,What does a receiver have to be equipped with to view encrypted content?,videoguard uk,VideoGuard UK,True,1.0
+1622,What does a receiver have to be equipped with to view encrypted content?,videoguard uk,VideoGuard UK,True,1.0
+1623,What does a receiver have to be equipped with to view encrypted content?,videoguard uk,VideoGuard UK,True,1.0
+1624,What is the universal band that digital recievers will receive free to air channels on?,ku band,Ku band,True,1.0
+1625,What is the universal band that digital recievers will receive free to air channels on?,ku band,9.75/10.600 GHz,False,0.0
+1626,What is the universal band that digital recievers will receive free to air channels on?,ku band,universal Ku band,False,0.8
+1627,What service is a VideoGuard UK equipped receiver dedicated to decrypt?,sky,Sky,True,1.0
+1628,What service is a VideoGuard UK equipped receiver dedicated to decrypt?,sky,Sky,True,1.0
+1629,What service is a VideoGuard UK equipped receiver dedicated to decrypt?,sky,Sky service,False,0.67
+1630,When were the talks held for braodcast right to the Primier league for a five year period from the 1992 season?,autumn of 1991,1991,False,0.5
+1631,When were the talks held for braodcast right to the Primier league for a five year period from the 1992 season?,autumn of 1991,autumn of 1991,True,1.0
+1632,When were the talks held for braodcast right to the Primier league for a five year period from the 1992 season?,autumn of 1991,1991,False,0.5
+1633,Who were the current rights holders for the Primer League?,itv,ITV,True,1.0
+1634,Who were the current rights holders for the Primer League?,itv,ITV,True,1.0
+1635,Who were the current rights holders for the Primer League?,itv,ITV,True,1.0
+1636,What did ITV increase their yearly offer for control of the rights to broadcast the Primer League to?,£34m per year,£34m,False,0.5
+1637,What did ITV increase their yearly offer for control of the rights to broadcast the Primer League to?,£34m per year,£34m,False,0.5
+1638,What did ITV increase their yearly offer for control of the rights to broadcast the Primer League to?,£34m per year,£34m per year,True,1.0
+1639,Who was given the highlights of most of the matches?,the bbc,BBC,True,1.0
+1640,Who was given the highlights of most of the matches?,the bbc,The BBC,True,1.0
+1641,Who was given the highlights of most of the matches?,the bbc,BBC,True,1.0
+1642,How much was BSkyB going to pay for the Primier League rights?,£304m,£304m,True,1.0
+1643,How much was BSkyB going to pay for the Primier League rights?,£304m,£304m,True,1.0
+1644,How much was BSkyB going to pay for the Primier League rights?,£304m,£304m,True,1.0
+1645,Who does BSkyB have an operating license from?,ofcom,Ofcom,True,1.0
+1646,Who does BSkyB have an operating license from?,ofcom,Ofcom,True,1.0
+1647,Who does BSkyB have an operating license from?,ofcom,Ofcom,True,1.0
+1648,what is the fee range for accessing BSkyB's EPG?,"£15 – 100 , 000","£15–100,000",False,0.0
+1649,what is the fee range for accessing BSkyB's EPG?,"£15 – 100 , 000","£15–100,000",False,0.0
+1650,what is the fee range for accessing BSkyB's EPG?,"£15 – 100 , 000","£15–100,000",False,0.0
+1651,Can BSkyB veto the presence of channels on their EPG?,no,no,True,1.0
+1652,Can BSkyB veto the presence of channels on their EPG?,no,no,True,1.0
+1653,Can BSkyB veto the presence of channels on their EPG?,no,Third-party channels,False,0.0
+1654,Does BSkyB carry any control over a channels content?,bskyb does not carry any control over the channel ' s content,not,False,0.18
+1655,Does BSkyB carry any control over a channels content?,bskyb does not carry any control over the channel ' s content,not,False,0.18
+1656,Does BSkyB carry any control over a channels content?,bskyb does not carry any control over the channel ' s content,BSkyB does not carry any control,False,0.75
+1657,Does BSkyB carry any control over the picture quality of a channel?,bskyb does not,not,False,0.5
+1658,Does BSkyB carry any control over the picture quality of a channel?,bskyb does not,not,False,0.5
+1659,Does BSkyB carry any control over the picture quality of a channel?,bskyb does not,BSkyB does not carry any control,False,0.67
+1660,When was BSkyB's digital service launched?,1 october 1998,1 October 1998,True,1.0
+1661,When was BSkyB's digital service launched?,1 october 1998,1 October 1998,True,1.0
+1662,When was BSkyB's digital service launched?,1 october 1998,1 October 1998,True,1.0
+1663,What was the name of BSkyB's digital service launched under?,sky digital,Sky Digital,True,1.0
+1664,What was the name of BSkyB's digital service launched under?,sky digital,Sky Digital,True,1.0
+1665,What was the name of BSkyB's digital service launched under?,sky digital,Sky Digital,True,1.0
+1666,What did BSkyB name their interactive service?,open,Sky Active,False,0.0
